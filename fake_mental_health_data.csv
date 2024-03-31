@@ -1,0 +1,1001 @@
+correlationAnalysisId,age,gender,occupation,lifestyleChangeId,mentalHealthHistoryId,daysIndoors,growingStress,quarantineFrustrations,changesHabits,mentalHealthHistory,weightChange,moodSwings,copingStruggles,workInterest,socialWeakness,depressionDiagnosis,chronicIllnesses,copingStrategies,symptomNodeId,questionnairePractices,surveyResponses
+1,21-25,Male,Housewife,21,55,15-30 days,Yes,Maybe,Yes,No,No,Low,No,Maybe,Yes,No,Yes,Medication,4926,Phone,Complete
+2,40-Above,Female,Housewife,69,95,15-30 days,Maybe,Yes,No,Maybe,No,High,Maybe,Maybe,Maybe,Yes,Yes,Exercise,4622,Online,Incomplete
+3,21-25,Male,Housewife,46,45,31-60 days,Yes,Yes,Maybe,No,Maybe,High,Maybe,Maybe,Yes,Yes,Yes,Therapy,4441,Phone,Complete
+4,16-20,Female,Housewife,80,78,1-14 days,No,Maybe,Maybe,No,Maybe,Medium,Yes,No,No,No,No,Exercise,3993,In-person,Complete
+5,40-Above,Male,Corporate,99,66,More than 2 months,No,No,No,Yes,Yes,Medium,Maybe,Maybe,Maybe,Yes,No,Exercise,1333,In-person,Incomplete
+6,21-25,Female,Housewife,75,69,Go out Every day,Maybe,Yes,Yes,Maybe,Yes,Medium,Yes,Maybe,Yes,Yes,Yes,Therapy,2570,Phone,Complete
+7,40-Above,Male,Corporate,93,14,1-14 days,Yes,Maybe,Maybe,Maybe,Maybe,Medium,Maybe,No,No,Yes,Yes,Medication,1878,Phone,Incomplete
+8,40-Above,Female,Corporate,93,56,31-60 days,No,Maybe,Maybe,Yes,Maybe,High,No,No,Maybe,No,Yes,Meditation,4531,Phone,Complete
+9,36-40,Male,Housewife,44,1,31-60 days,No,Yes,Maybe,Maybe,Maybe,Low,Maybe,Maybe,Yes,No,No,Meditation,4931,Online,Not Taken
+10,16-20,Male,Corporate,10,88,More than 2 months,Maybe,Maybe,Yes,No,Maybe,Low,Yes,No,Yes,Yes,Yes,Exercise,3179,Phone,Incomplete
+11,26-30,Male,Corporate,82,75,More than 2 months,No,Maybe,Maybe,No,No,High,Maybe,Yes,No,Yes,No,Medication,4476,Online,Not Taken
+12,40-Above,Female,Corporate,44,87,Go out Every day,No,Maybe,Maybe,Yes,Maybe,Medium,Maybe,No,No,Yes,Yes,Meditation,4713,Online,Incomplete
+13,31-35,Female,Housewife,91,19,More than 2 months,No,No,No,Yes,No,High,No,No,Yes,No,No,Exercise,3335,In-person,Complete
+14,36-40,Male,Student,12,73,15-30 days,No,Yes,Maybe,Maybe,No,Medium,Yes,Maybe,No,Yes,No,Therapy,4863,Phone,Incomplete
+15,40-Above,Male,Others,86,75,1-14 days,No,Yes,Yes,Yes,No,High,No,Maybe,No,No,Yes,Exercise,1748,Online,Incomplete
+16,40-Above,Male,Corporate,79,9,Go out Every day,Yes,No,Maybe,Maybe,Maybe,Low,No,Maybe,Yes,No,No,Therapy,1189,Online,Not Taken
+17,40-Above,Male,Business,96,15,1-14 days,No,Maybe,Maybe,Maybe,No,High,No,No,No,No,Yes,Meditation,3317,Phone,Incomplete
+18,26-30,Female,Student,16,32,Go out Every day,Yes,Yes,Yes,Yes,No,Medium,Maybe,Maybe,Maybe,No,Yes,Meditation,2211,Phone,Incomplete
+19,36-40,Female,Corporate,97,91,1-14 days,Yes,No,No,No,No,High,No,Maybe,Maybe,Yes,Yes,Therapy,3175,Online,Complete
+20,36-40,Female,Corporate,25,95,15-30 days,No,No,No,No,Yes,Low,No,Maybe,Yes,No,Yes,Medication,1166,Online,Complete
+21,36-40,Female,Housewife,67,85,31-60 days,Maybe,No,No,No,Yes,Medium,Yes,Maybe,Maybe,Yes,Yes,Medication,3477,In-person,Not Taken
+22,21-25,Female,Business,2,24,1-14 days,Yes,No,Maybe,No,No,Low,No,No,Maybe,Yes,Yes,Therapy,1574,In-person,Complete
+23,16-20,Male,Business,96,32,31-60 days,Maybe,No,Yes,Yes,No,Medium,No,No,No,No,Yes,Medication,3634,In-person,Not Taken
+24,16-20,Male,Corporate,32,94,1-14 days,No,Maybe,Yes,No,Maybe,High,No,Maybe,No,Yes,Yes,Meditation,4737,In-person,Complete
+25,31-35,Male,Others,90,49,1-14 days,Yes,Maybe,Yes,No,No,Medium,Yes,Maybe,No,Yes,Yes,Exercise,2674,Phone,Not Taken
+26,16-20,Male,Housewife,6,76,31-60 days,No,Maybe,Yes,Maybe,No,High,No,Yes,No,No,Yes,Meditation,3834,Phone,Complete
+27,26-30,Male,Business,61,42,More than 2 months,No,No,Maybe,No,Yes,High,Yes,Yes,Maybe,Yes,Yes,Therapy,4136,Online,Complete
+28,26-30,Female,Student,66,56,15-30 days,No,No,Maybe,Yes,Yes,Medium,Maybe,Yes,No,Yes,No,Therapy,4797,Phone,Not Taken
+29,16-20,Female,Housewife,95,63,31-60 days,Yes,Maybe,Yes,Yes,Yes,Low,Yes,Maybe,Yes,No,No,Exercise,3375,Phone,Complete
+30,40-Above,Female,Business,32,47,More than 2 months,Yes,Maybe,Yes,Maybe,Yes,High,No,No,No,No,No,Meditation,3523,Online,Incomplete
+31,40-Above,Female,Student,35,88,31-60 days,Maybe,Yes,Yes,No,No,Low,Yes,Yes,Yes,Yes,Yes,Medication,4273,Online,Incomplete
+32,36-40,Female,Housewife,82,22,1-14 days,Maybe,No,Yes,Maybe,Maybe,Low,No,Yes,No,Yes,No,Medication,2251,Online,Not Taken
+33,40-Above,Female,Corporate,24,84,1-14 days,Maybe,Maybe,Maybe,Maybe,No,High,Yes,No,No,No,No,Exercise,1651,Phone,Incomplete
+34,21-25,Female,Corporate,94,27,More than 2 months,Yes,Maybe,No,No,Maybe,Low,Maybe,Yes,No,Yes,Yes,Exercise,3732,Online,Complete
+35,26-30,Female,Business,34,71,1-14 days,Yes,Maybe,No,Maybe,Yes,Medium,Yes,Yes,Yes,Yes,No,Medication,3676,In-person,Incomplete
+36,40-Above,Female,Others,69,15,15-30 days,Yes,No,Maybe,Maybe,Maybe,Medium,No,No,Yes,No,No,Therapy,1584,Online,Incomplete
+37,21-25,Male,Student,97,7,31-60 days,Yes,No,Yes,Maybe,Yes,Low,Maybe,Maybe,Yes,No,No,Therapy,1038,Phone,Complete
+38,31-35,Female,Others,2,61,15-30 days,No,Yes,Maybe,Maybe,Yes,Medium,Maybe,Maybe,No,Yes,No,Therapy,1973,Online,Not Taken
+39,36-40,Male,Business,68,59,Go out Every day,Yes,Yes,No,Maybe,No,Medium,No,Yes,Maybe,Yes,Yes,Exercise,1189,In-person,Not Taken
+40,16-20,Female,Others,30,37,1-14 days,No,Yes,No,Maybe,Maybe,High,No,Maybe,No,Yes,Yes,Meditation,2441,In-person,Incomplete
+41,31-35,Male,Corporate,19,24,More than 2 months,No,Maybe,No,Yes,Yes,Medium,Maybe,Maybe,No,Yes,No,Meditation,3112,In-person,Incomplete
+42,40-Above,Female,Housewife,78,6,15-30 days,No,No,No,No,Maybe,Low,Yes,No,Yes,Yes,No,Exercise,2139,In-person,Complete
+43,40-Above,Female,Corporate,15,75,31-60 days,Yes,Maybe,Yes,Yes,Maybe,Medium,Maybe,No,Maybe,Yes,Yes,Exercise,2091,Online,Incomplete
+44,16-20,Male,Business,51,55,Go out Every day,Yes,Maybe,No,Maybe,Yes,High,Yes,Maybe,Yes,Yes,Yes,Therapy,2353,Phone,Incomplete
+45,36-40,Female,Others,42,5,1-14 days,Yes,Yes,Yes,No,Yes,Medium,Maybe,No,Yes,No,Yes,Medication,3304,Phone,Incomplete
+46,40-Above,Male,Business,60,57,More than 2 months,No,No,No,No,Maybe,Low,Maybe,No,Maybe,No,No,Meditation,1332,In-person,Incomplete
+47,31-35,Female,Others,85,99,31-60 days,Maybe,No,Yes,Maybe,Yes,High,No,Maybe,Yes,Yes,Yes,Meditation,4786,Phone,Complete
+48,31-35,Male,Others,39,67,Go out Every day,Yes,Yes,Maybe,Yes,No,Low,Maybe,Yes,Maybe,Yes,No,Medication,4142,Online,Complete
+49,36-40,Male,Others,71,40,15-30 days,Maybe,No,No,Yes,No,High,Maybe,Maybe,No,Yes,Yes,Exercise,3251,In-person,Not Taken
+50,26-30,Male,Corporate,59,74,Go out Every day,No,Maybe,Yes,Yes,Yes,Low,Maybe,Yes,Yes,No,Yes,Exercise,3271,In-person,Complete
+51,21-25,Male,Others,94,63,1-14 days,No,No,No,No,Maybe,High,No,Maybe,Yes,No,Yes,Meditation,4730,Online,Not Taken
+52,40-Above,Male,Business,41,46,Go out Every day,Maybe,Maybe,Yes,Yes,Maybe,Medium,Yes,Maybe,Maybe,Yes,Yes,Therapy,2911,Phone,Complete
+53,36-40,Male,Housewife,62,74,31-60 days,No,No,No,No,Maybe,Medium,Maybe,Maybe,Yes,No,No,Exercise,3130,Phone,Not Taken
+54,40-Above,Male,Student,65,49,1-14 days,Yes,No,Yes,No,Maybe,Low,Yes,No,No,No,No,Medication,1628,In-person,Complete
+55,21-25,Male,Corporate,33,1,More than 2 months,Maybe,Maybe,Maybe,Maybe,Yes,High,Maybe,Maybe,No,No,No,Exercise,4949,Phone,Not Taken
+56,31-35,Male,Others,62,41,15-30 days,No,No,Maybe,Yes,Yes,Medium,Maybe,Yes,Maybe,Yes,Yes,Meditation,4069,Phone,Complete
+57,31-35,Female,Corporate,69,78,31-60 days,No,Maybe,Maybe,Maybe,Maybe,Low,No,Maybe,Yes,No,Yes,Medication,3501,In-person,Complete
+58,31-35,Female,Corporate,9,81,31-60 days,Maybe,No,No,Yes,Yes,Medium,Yes,No,Maybe,Yes,No,Medication,4278,Online,Not Taken
+59,40-Above,Male,Others,8,88,31-60 days,No,No,No,No,Maybe,High,Maybe,No,No,No,No,Therapy,1435,In-person,Complete
+60,31-35,Male,Housewife,7,68,More than 2 months,No,Yes,No,Maybe,No,High,Maybe,No,Yes,Yes,No,Exercise,1090,Online,Not Taken
+61,26-30,Female,Others,25,55,Go out Every day,No,No,No,Yes,No,Low,Maybe,No,Maybe,Yes,No,Meditation,4706,Online,Incomplete
+62,40-Above,Male,Student,15,22,More than 2 months,No,No,No,Yes,No,Medium,Yes,No,Yes,Yes,No,Medication,3950,Online,Not Taken
+63,31-35,Male,Corporate,44,1,15-30 days,Maybe,No,No,No,No,Medium,No,Yes,Maybe,No,Yes,Therapy,1436,Online,Incomplete
+64,21-25,Male,Corporate,50,88,Go out Every day,No,Maybe,Maybe,Maybe,Yes,Low,Yes,No,Maybe,Yes,Yes,Medication,4884,In-person,Complete
+65,16-20,Female,Others,8,33,31-60 days,Yes,Maybe,No,Yes,Maybe,Medium,Maybe,No,Yes,Yes,Yes,Therapy,2226,Online,Not Taken
+66,36-40,Female,Business,69,44,31-60 days,Maybe,Yes,Maybe,Yes,Maybe,Medium,Yes,Yes,Yes,No,Yes,Meditation,4612,Phone,Not Taken
+67,31-35,Male,Housewife,80,10,31-60 days,No,No,Yes,No,Yes,Low,No,Yes,No,No,No,Medication,4704,In-person,Incomplete
+68,21-25,Male,Corporate,86,13,15-30 days,Maybe,Maybe,Maybe,Yes,Yes,Medium,Maybe,Yes,Yes,Yes,Yes,Medication,2700,Phone,Not Taken
+69,31-35,Male,Student,72,12,More than 2 months,Yes,Yes,Maybe,No,Maybe,Medium,Yes,No,No,No,No,Medication,2410,Online,Not Taken
+70,31-35,Male,Student,88,9,31-60 days,Maybe,No,No,Maybe,Maybe,Medium,Yes,Maybe,Maybe,No,Yes,Meditation,1629,Online,Not Taken
+71,26-30,Male,Business,12,45,15-30 days,Yes,Yes,Maybe,Maybe,Maybe,Low,Yes,No,No,Yes,No,Medication,4281,In-person,Incomplete
+72,21-25,Female,Business,25,48,15-30 days,Yes,Yes,No,No,Maybe,Medium,Maybe,Maybe,No,No,No,Medication,4979,Online,Incomplete
+73,40-Above,Female,Housewife,57,32,15-30 days,No,No,Maybe,Maybe,No,Low,Yes,No,Yes,No,No,Medication,3378,In-person,Incomplete
+74,31-35,Male,Corporate,15,85,Go out Every day,Maybe,Yes,Maybe,No,Yes,High,No,Yes,Maybe,No,Yes,Exercise,4232,Online,Complete
+75,36-40,Male,Corporate,68,92,More than 2 months,Yes,Maybe,Maybe,No,Maybe,High,Maybe,Maybe,No,No,No,Exercise,2272,Online,Complete
+76,31-35,Male,Housewife,43,79,1-14 days,Maybe,Maybe,Yes,No,Yes,Medium,Maybe,No,Maybe,No,No,Medication,4777,Online,Incomplete
+77,21-25,Female,Business,58,68,15-30 days,Yes,Yes,No,Maybe,Maybe,Medium,Yes,Yes,Maybe,No,No,Therapy,2589,Phone,Incomplete
+78,16-20,Male,Business,33,83,31-60 days,Maybe,No,Maybe,Yes,Yes,Low,No,No,Yes,No,No,Exercise,1800,Phone,Incomplete
+79,26-30,Male,Student,9,28,1-14 days,Yes,Maybe,No,No,No,High,No,No,No,No,No,Meditation,4235,Online,Incomplete
+80,16-20,Female,Others,79,77,31-60 days,Maybe,Yes,Yes,No,Maybe,High,No,No,No,No,Yes,Meditation,1577,In-person,Incomplete
+81,40-Above,Male,Others,19,45,More than 2 months,Yes,No,Yes,No,Maybe,Medium,Yes,No,Yes,Yes,No,Exercise,4711,Online,Not Taken
+82,26-30,Male,Corporate,31,40,31-60 days,No,Yes,Maybe,Yes,No,Medium,Yes,Yes,Maybe,No,Yes,Exercise,4152,In-person,Complete
+83,31-35,Male,Corporate,89,56,Go out Every day,Yes,No,No,Maybe,Yes,Medium,No,No,No,Yes,No,Meditation,1426,Online,Not Taken
+84,26-30,Male,Housewife,97,65,Go out Every day,No,No,No,Yes,Maybe,Medium,No,Yes,No,No,Yes,Medication,3397,In-person,Complete
+85,31-35,Male,Others,92,95,Go out Every day,Yes,Yes,Yes,Yes,No,Medium,No,Yes,Yes,Yes,Yes,Exercise,3002,In-person,Not Taken
+86,21-25,Female,Housewife,23,3,Go out Every day,Maybe,Yes,Yes,No,Maybe,Low,Maybe,No,Yes,No,Yes,Therapy,4478,In-person,Incomplete
+87,26-30,Male,Housewife,42,48,15-30 days,Yes,No,Maybe,Yes,No,High,No,No,Maybe,No,No,Therapy,2988,In-person,Not Taken
+88,21-25,Female,Housewife,12,89,Go out Every day,Yes,Maybe,Maybe,Maybe,No,High,Yes,No,Yes,No,No,Medication,2899,Phone,Incomplete
+89,21-25,Male,Others,52,50,31-60 days,Maybe,Yes,Yes,No,Yes,Low,Yes,Maybe,Maybe,No,No,Exercise,2258,Online,Not Taken
+90,16-20,Male,Others,87,55,Go out Every day,No,Maybe,Maybe,No,Maybe,Low,Yes,Yes,Yes,No,Yes,Therapy,4519,In-person,Complete
+91,21-25,Male,Business,4,78,31-60 days,Maybe,Yes,Maybe,Maybe,No,High,Maybe,No,Maybe,Yes,No,Therapy,2315,Phone,Complete
+92,16-20,Male,Student,7,47,31-60 days,Yes,Yes,Yes,Maybe,No,High,Maybe,Maybe,Maybe,No,Yes,Exercise,2057,Online,Not Taken
+93,26-30,Male,Student,44,6,15-30 days,Yes,No,Maybe,Yes,No,High,Yes,Maybe,No,No,Yes,Exercise,3746,Online,Incomplete
+94,40-Above,Male,Housewife,50,35,More than 2 months,Yes,Maybe,Yes,Maybe,Maybe,Low,No,Yes,Yes,No,Yes,Medication,4862,Online,Complete
+95,26-30,Female,Business,36,30,More than 2 months,No,No,Maybe,No,No,Low,No,Maybe,No,Yes,No,Medication,1716,In-person,Incomplete
+96,16-20,Male,Business,72,73,15-30 days,Yes,Maybe,No,Maybe,Maybe,Medium,Yes,Maybe,No,Yes,No,Meditation,4105,In-person,Incomplete
+97,21-25,Male,Others,92,89,Go out Every day,Yes,Maybe,Maybe,Yes,Yes,Medium,Yes,Maybe,No,No,Yes,Therapy,3612,Phone,Complete
+98,36-40,Male,Others,10,65,15-30 days,Yes,No,No,Yes,Maybe,Medium,Maybe,Maybe,No,No,Yes,Therapy,1142,In-person,Not Taken
+99,40-Above,Male,Business,25,39,Go out Every day,Yes,Maybe,Yes,Maybe,Yes,Medium,Maybe,Yes,No,Yes,Yes,Exercise,4739,Online,Not Taken
+100,36-40,Male,Corporate,32,41,1-14 days,No,No,Maybe,Maybe,Yes,Low,Maybe,Maybe,Maybe,Yes,Yes,Medication,3912,In-person,Complete
+101,36-40,Male,Corporate,62,24,Go out Every day,Maybe,No,Maybe,Maybe,Maybe,Medium,Yes,Maybe,Maybe,No,Yes,Meditation,3847,Online,Incomplete
+102,36-40,Female,Corporate,82,36,Go out Every day,Maybe,No,No,Yes,No,High,Maybe,No,Yes,No,Yes,Exercise,2330,Phone,Complete
+103,21-25,Female,Corporate,52,56,15-30 days,Yes,Maybe,Yes,Maybe,Maybe,High,No,Maybe,Yes,Yes,Yes,Therapy,2828,In-person,Incomplete
+104,26-30,Female,Others,95,84,More than 2 months,No,Maybe,No,Maybe,Yes,Low,Maybe,Maybe,Yes,No,No,Medication,2199,In-person,Incomplete
+105,36-40,Male,Business,26,68,31-60 days,Yes,No,Maybe,No,No,Medium,No,Yes,No,No,No,Meditation,4974,Phone,Incomplete
+106,36-40,Male,Student,90,16,Go out Every day,Yes,No,Yes,No,Maybe,Medium,No,Yes,Maybe,Yes,No,Therapy,2998,Online,Not Taken
+107,26-30,Male,Student,52,51,15-30 days,Maybe,No,Yes,No,Yes,Low,No,Yes,Maybe,Yes,Yes,Therapy,2947,In-person,Complete
+108,36-40,Female,Business,98,78,More than 2 months,Yes,Maybe,Yes,Maybe,Yes,Low,No,Maybe,Maybe,No,Yes,Medication,4429,Phone,Complete
+109,31-35,Female,Corporate,23,74,1-14 days,Maybe,No,Maybe,Yes,Yes,Low,Maybe,No,No,No,No,Medication,2531,Phone,Incomplete
+110,36-40,Male,Student,42,89,15-30 days,Maybe,Yes,Yes,No,Yes,High,Maybe,Yes,Yes,Yes,Yes,Exercise,2736,Online,Not Taken
+111,36-40,Male,Others,35,80,15-30 days,Yes,Yes,No,No,Maybe,Low,No,No,No,No,Yes,Medication,4105,In-person,Incomplete
+112,36-40,Female,Housewife,93,75,31-60 days,Yes,Yes,No,Yes,Maybe,High,Maybe,Yes,Yes,No,No,Meditation,4881,Phone,Incomplete
+113,21-25,Male,Business,69,87,15-30 days,Yes,No,Maybe,Yes,No,Low,Yes,Yes,Yes,No,No,Exercise,3079,Phone,Complete
+114,26-30,Female,Business,70,34,15-30 days,No,No,No,Yes,No,High,Maybe,No,Yes,Yes,Yes,Therapy,3752,Phone,Incomplete
+115,31-35,Male,Student,41,39,1-14 days,No,No,Maybe,Maybe,Yes,High,Maybe,Yes,Maybe,No,Yes,Exercise,4552,In-person,Not Taken
+116,16-20,Female,Business,49,29,1-14 days,Maybe,Maybe,Yes,No,Yes,High,Yes,Yes,No,No,No,Therapy,4011,Phone,Not Taken
+117,21-25,Male,Housewife,75,42,1-14 days,Maybe,No,No,Maybe,Yes,High,Yes,Yes,No,No,No,Meditation,1807,Phone,Incomplete
+118,26-30,Male,Business,16,86,1-14 days,Yes,No,Maybe,No,Maybe,High,No,No,No,Yes,Yes,Medication,1105,Online,Not Taken
+119,21-25,Male,Housewife,91,39,1-14 days,Maybe,Maybe,No,Yes,Maybe,Medium,Maybe,Maybe,Yes,No,No,Therapy,3677,Online,Incomplete
+120,36-40,Male,Student,7,35,1-14 days,No,No,Maybe,Maybe,No,High,Yes,Yes,Maybe,No,Yes,Medication,2211,In-person,Complete
+121,26-30,Female,Others,48,72,Go out Every day,Maybe,Maybe,No,Yes,Yes,High,Maybe,Maybe,Yes,No,Yes,Therapy,1061,Phone,Incomplete
+122,31-35,Female,Housewife,36,66,More than 2 months,No,No,Yes,Yes,No,Medium,No,No,Yes,Yes,No,Therapy,4687,Phone,Not Taken
+123,36-40,Male,Student,81,5,1-14 days,Yes,Maybe,Maybe,Maybe,No,High,No,Maybe,Yes,No,No,Exercise,3707,Online,Complete
+124,21-25,Male,Student,31,43,Go out Every day,Maybe,Maybe,Yes,Yes,Maybe,Low,No,No,No,No,No,Exercise,2466,In-person,Complete
+125,40-Above,Male,Business,32,45,1-14 days,Yes,Maybe,Yes,No,Yes,Medium,Yes,Yes,No,No,Yes,Exercise,4076,Phone,Complete
+126,26-30,Male,Business,3,1,1-14 days,No,No,Yes,Maybe,Maybe,Low,Yes,Maybe,No,No,No,Exercise,4055,Phone,Complete
+127,40-Above,Male,Corporate,44,41,Go out Every day,No,No,Yes,Maybe,Maybe,High,Yes,No,Yes,Yes,Yes,Therapy,1389,Phone,Complete
+128,40-Above,Male,Business,38,52,31-60 days,Yes,No,Maybe,No,No,High,Yes,No,Yes,No,Yes,Medication,4328,Online,Not Taken
+129,40-Above,Female,Housewife,82,4,1-14 days,Yes,Maybe,Yes,Yes,Yes,High,Yes,Maybe,Yes,Yes,Yes,Exercise,3712,Phone,Complete
+130,40-Above,Male,Others,73,62,Go out Every day,No,Maybe,Maybe,Maybe,Maybe,Medium,Maybe,Yes,No,No,Yes,Meditation,1146,In-person,Not Taken
+131,40-Above,Male,Student,97,4,1-14 days,Maybe,Yes,Maybe,No,Yes,Medium,No,Maybe,Yes,Yes,Yes,Medication,2416,Online,Complete
+132,21-25,Male,Corporate,60,39,15-30 days,No,Maybe,Yes,No,Maybe,Medium,Maybe,Yes,No,No,Yes,Exercise,2931,Online,Complete
+133,31-35,Female,Business,76,48,15-30 days,Yes,Yes,Maybe,Yes,No,Medium,No,No,Yes,Yes,No,Exercise,2273,In-person,Not Taken
+134,40-Above,Female,Business,26,78,1-14 days,Maybe,Maybe,Yes,Yes,Yes,High,Yes,No,Yes,No,Yes,Meditation,2440,Online,Incomplete
+135,26-30,Male,Corporate,98,24,Go out Every day,No,No,No,Yes,No,Medium,Yes,Yes,No,No,Yes,Medication,1112,Online,Complete
+136,16-20,Female,Housewife,17,45,31-60 days,No,Maybe,Maybe,Yes,No,High,Yes,No,Yes,Yes,Yes,Therapy,4341,In-person,Incomplete
+137,31-35,Female,Others,11,81,1-14 days,No,Maybe,No,No,Yes,Medium,Yes,Maybe,No,No,Yes,Meditation,4431,Phone,Complete
+138,31-35,Male,Business,67,51,1-14 days,Maybe,Maybe,Maybe,Yes,Yes,Low,Yes,No,Maybe,Yes,Yes,Meditation,4113,Phone,Not Taken
+139,36-40,Male,Others,29,47,More than 2 months,Maybe,Yes,No,Yes,Yes,High,Yes,Maybe,Yes,No,Yes,Therapy,1184,Online,Incomplete
+140,31-35,Male,Others,79,81,Go out Every day,Yes,Yes,No,No,Yes,Low,Maybe,Yes,Yes,Yes,No,Meditation,3552,Online,Not Taken
+141,40-Above,Female,Corporate,88,22,15-30 days,Yes,No,Yes,Yes,Maybe,Low,No,Maybe,Maybe,No,Yes,Exercise,2306,Phone,Not Taken
+142,26-30,Female,Student,99,24,More than 2 months,Yes,Yes,Maybe,No,No,Medium,Maybe,Maybe,Yes,No,Yes,Meditation,3988,In-person,Complete
+143,36-40,Male,Others,34,25,Go out Every day,No,No,Maybe,Yes,Yes,Medium,Yes,No,Yes,Yes,No,Meditation,3764,Phone,Complete
+144,26-30,Male,Business,5,37,15-30 days,Yes,No,Maybe,No,No,Medium,Maybe,Maybe,Yes,No,No,Meditation,1288,Phone,Not Taken
+145,21-25,Male,Housewife,91,63,1-14 days,No,Maybe,Yes,Maybe,Yes,High,Maybe,Yes,Maybe,Yes,Yes,Therapy,4137,Online,Complete
+146,31-35,Male,Business,1,14,15-30 days,No,Maybe,Yes,Maybe,No,Low,Yes,No,No,No,No,Medication,3951,In-person,Not Taken
+147,36-40,Male,Housewife,17,84,More than 2 months,Yes,Yes,No,Maybe,Maybe,Low,No,Maybe,No,No,Yes,Exercise,1479,Phone,Incomplete
+148,36-40,Male,Housewife,67,38,1-14 days,Maybe,No,No,Maybe,Maybe,Low,Yes,No,Maybe,Yes,Yes,Therapy,2026,Phone,Incomplete
+149,31-35,Female,Student,96,50,15-30 days,No,No,No,Maybe,Maybe,Low,No,Maybe,Yes,No,Yes,Medication,2538,Online,Incomplete
+150,36-40,Male,Others,43,1,1-14 days,No,Maybe,Yes,No,Maybe,High,Maybe,Yes,Yes,No,No,Therapy,1706,Phone,Complete
+151,26-30,Female,Corporate,7,18,Go out Every day,Yes,Yes,Maybe,Maybe,Yes,Low,Yes,Yes,Maybe,Yes,No,Medication,3980,In-person,Complete
+152,16-20,Female,Student,21,55,31-60 days,No,No,Yes,Maybe,Yes,High,No,Yes,Yes,Yes,No,Meditation,3072,Online,Incomplete
+153,26-30,Male,Student,83,56,31-60 days,Yes,No,Yes,Yes,Maybe,High,Maybe,No,No,No,No,Medication,4253,In-person,Not Taken
+154,31-35,Male,Corporate,2,36,More than 2 months,Yes,Maybe,No,Yes,Maybe,Medium,Yes,Maybe,Yes,No,No,Exercise,3725,In-person,Complete
+155,40-Above,Male,Corporate,40,18,31-60 days,Yes,No,Maybe,Maybe,Maybe,Low,Maybe,No,No,No,Yes,Therapy,4871,In-person,Incomplete
+156,36-40,Female,Business,2,62,15-30 days,Maybe,Maybe,No,No,No,Low,Yes,No,Yes,No,No,Meditation,1027,In-person,Not Taken
+157,36-40,Female,Corporate,30,1,31-60 days,No,No,No,No,Maybe,Low,Maybe,No,Maybe,No,No,Meditation,1152,Phone,Complete
+158,40-Above,Male,Student,10,68,15-30 days,Maybe,Yes,Maybe,No,Maybe,High,Maybe,Maybe,Maybe,Yes,Yes,Therapy,4549,Phone,Incomplete
+159,36-40,Male,Business,97,77,31-60 days,Maybe,Yes,Maybe,Yes,Maybe,High,No,Yes,No,Yes,Yes,Therapy,1646,Online,Incomplete
+160,21-25,Female,Corporate,80,80,More than 2 months,No,Yes,No,Yes,No,Medium,Maybe,Yes,Yes,Yes,No,Therapy,1064,Online,Incomplete
+161,40-Above,Male,Student,10,57,15-30 days,Yes,Yes,Yes,No,Maybe,Medium,No,No,Yes,Yes,No,Therapy,3717,Phone,Not Taken
+162,36-40,Male,Housewife,8,52,15-30 days,Maybe,No,Maybe,Maybe,No,Low,No,Maybe,Yes,No,No,Meditation,2485,In-person,Complete
+163,36-40,Female,Corporate,31,85,1-14 days,Maybe,Maybe,Maybe,Yes,Yes,High,Yes,Maybe,No,No,Yes,Therapy,4470,Online,Not Taken
+164,26-30,Female,Housewife,54,15,Go out Every day,No,No,Yes,Maybe,Yes,Low,Maybe,Yes,Maybe,Yes,Yes,Therapy,2321,Online,Incomplete
+165,40-Above,Female,Corporate,29,10,More than 2 months,Maybe,Maybe,Maybe,No,Yes,High,No,Maybe,Maybe,No,No,Meditation,1533,In-person,Complete
+166,40-Above,Female,Housewife,76,52,Go out Every day,Yes,Yes,Yes,Yes,Yes,Medium,No,Yes,Maybe,Yes,No,Exercise,1955,Phone,Incomplete
+167,21-25,Male,Student,10,27,31-60 days,Yes,No,Yes,No,No,High,Yes,No,Maybe,Yes,Yes,Meditation,3555,Phone,Not Taken
+168,40-Above,Female,Business,98,22,Go out Every day,Maybe,Maybe,No,Maybe,No,High,Yes,No,Maybe,Yes,No,Exercise,3409,In-person,Complete
+169,26-30,Male,Others,14,82,1-14 days,No,No,Yes,No,Yes,High,Yes,Yes,Yes,Yes,Yes,Exercise,3584,Phone,Not Taken
+170,40-Above,Female,Business,24,90,31-60 days,No,No,Maybe,Maybe,Yes,High,Yes,Yes,No,Yes,No,Therapy,3385,Online,Incomplete
+171,31-35,Female,Corporate,5,95,Go out Every day,No,Yes,Yes,Maybe,No,Low,No,Maybe,Maybe,No,Yes,Therapy,2302,Phone,Incomplete
+172,26-30,Female,Student,15,98,31-60 days,Yes,Yes,Maybe,No,Maybe,Low,Yes,No,Maybe,Yes,No,Meditation,2947,Online,Not Taken
+173,26-30,Female,Others,7,2,Go out Every day,Maybe,Yes,Maybe,Yes,Yes,Low,Maybe,Yes,No,No,No,Exercise,4781,In-person,Not Taken
+174,26-30,Female,Business,54,12,Go out Every day,No,No,No,Yes,Maybe,Medium,Yes,Maybe,Yes,No,No,Therapy,2276,Online,Not Taken
+175,26-30,Male,Housewife,35,18,15-30 days,No,Yes,No,No,Maybe,Medium,Maybe,Maybe,No,No,No,Therapy,3512,Online,Incomplete
+176,16-20,Male,Housewife,71,50,15-30 days,Yes,Maybe,Yes,Maybe,No,High,Maybe,Yes,Yes,No,Yes,Meditation,4426,In-person,Incomplete
+177,26-30,Female,Others,79,20,31-60 days,Maybe,No,Maybe,Yes,No,Low,No,No,No,Yes,No,Meditation,1007,Online,Not Taken
+178,31-35,Male,Others,6,99,1-14 days,Maybe,No,No,Yes,Yes,Low,Yes,Maybe,No,No,Yes,Medication,3765,Online,Incomplete
+179,40-Above,Male,Housewife,59,45,31-60 days,No,Maybe,Yes,Yes,Maybe,Medium,Maybe,Maybe,Yes,Yes,No,Exercise,2980,Phone,Not Taken
+180,21-25,Female,Housewife,93,3,1-14 days,Yes,Yes,No,Yes,No,Low,Maybe,Maybe,Yes,No,No,Exercise,2371,Online,Complete
+181,16-20,Female,Housewife,48,67,1-14 days,No,Yes,Maybe,Yes,Maybe,Low,Yes,Maybe,No,Yes,No,Meditation,2824,Online,Not Taken
+182,16-20,Female,Business,95,61,15-30 days,Yes,No,No,Maybe,Yes,High,Maybe,Yes,Yes,No,Yes,Exercise,4193,Phone,Not Taken
+183,26-30,Female,Housewife,2,51,15-30 days,Maybe,Yes,Maybe,Maybe,No,Low,No,Yes,Yes,No,No,Therapy,4872,In-person,Not Taken
+184,31-35,Female,Student,34,87,31-60 days,Maybe,Yes,Yes,Yes,Yes,Low,Maybe,Maybe,Yes,No,Yes,Therapy,1341,In-person,Not Taken
+185,31-35,Female,Corporate,81,76,15-30 days,No,No,Yes,No,Maybe,Low,Maybe,No,No,No,Yes,Exercise,3080,Phone,Incomplete
+186,26-30,Male,Student,69,31,Go out Every day,No,No,No,Maybe,Maybe,Medium,No,Yes,Yes,No,No,Therapy,4593,Phone,Incomplete
+187,40-Above,Female,Business,36,42,Go out Every day,No,Yes,Maybe,Maybe,Maybe,High,Maybe,No,Yes,No,Yes,Exercise,3670,In-person,Incomplete
+188,21-25,Female,Housewife,68,15,More than 2 months,Yes,No,Yes,Maybe,Yes,High,No,Yes,Yes,Yes,No,Exercise,1364,In-person,Complete
+189,16-20,Female,Housewife,62,90,31-60 days,Yes,No,Yes,Maybe,Maybe,Low,No,No,No,Yes,Yes,Exercise,2562,In-person,Incomplete
+190,16-20,Male,Business,67,10,31-60 days,Maybe,Maybe,No,Maybe,Maybe,Medium,Yes,No,No,No,No,Therapy,3854,Phone,Not Taken
+191,31-35,Male,Student,49,22,Go out Every day,No,Yes,Yes,Yes,No,Low,Yes,Maybe,Yes,Yes,Yes,Exercise,1061,In-person,Complete
+192,21-25,Female,Housewife,56,49,Go out Every day,Maybe,No,Maybe,Yes,Yes,Low,Yes,Maybe,Maybe,No,Yes,Exercise,1485,Online,Incomplete
+193,36-40,Female,Housewife,7,68,More than 2 months,No,Maybe,Yes,Yes,Yes,High,Yes,Maybe,No,Yes,No,Exercise,4741,Online,Incomplete
+194,21-25,Male,Business,27,11,15-30 days,Yes,Yes,Maybe,Yes,Maybe,High,Yes,Yes,Maybe,Yes,No,Meditation,2026,In-person,Incomplete
+195,40-Above,Male,Corporate,54,71,1-14 days,Yes,No,Maybe,Maybe,No,Low,No,Maybe,Yes,No,Yes,Therapy,4617,Online,Incomplete
+196,21-25,Female,Business,36,34,15-30 days,Yes,Maybe,Yes,Maybe,No,High,No,No,Maybe,No,No,Meditation,4288,Online,Complete
+197,36-40,Male,Housewife,72,86,Go out Every day,Maybe,Maybe,Maybe,Maybe,No,Medium,No,No,No,Yes,Yes,Exercise,3375,Online,Complete
+198,36-40,Female,Student,18,82,31-60 days,Yes,No,Maybe,Maybe,Yes,Medium,Yes,Yes,Maybe,No,Yes,Medication,1644,Phone,Complete
+199,16-20,Male,Housewife,75,69,Go out Every day,Yes,Maybe,No,Maybe,No,Medium,Yes,No,Yes,Yes,No,Therapy,2423,Phone,Incomplete
+200,21-25,Female,Corporate,84,88,More than 2 months,Yes,Maybe,Maybe,No,Yes,High,Maybe,Yes,Yes,Yes,Yes,Exercise,3867,Phone,Incomplete
+201,31-35,Female,Corporate,84,87,Go out Every day,Yes,Maybe,No,Yes,Yes,Medium,Yes,Maybe,No,No,No,Medication,1344,Phone,Not Taken
+202,21-25,Male,Business,50,61,More than 2 months,Yes,No,Yes,Yes,No,Low,No,Yes,No,Yes,No,Therapy,2947,Phone,Incomplete
+203,16-20,Male,Business,14,99,More than 2 months,Yes,Maybe,Yes,Yes,Maybe,Low,No,No,Yes,No,No,Exercise,1286,Online,Not Taken
+204,31-35,Female,Housewife,13,63,31-60 days,No,Maybe,Maybe,Yes,Maybe,Medium,Maybe,No,Maybe,No,No,Exercise,2825,Phone,Not Taken
+205,36-40,Male,Student,18,28,15-30 days,No,Maybe,No,Yes,No,Medium,Yes,No,No,Yes,No,Meditation,3248,In-person,Not Taken
+206,16-20,Male,Others,3,53,1-14 days,Maybe,No,Maybe,Yes,No,Low,Maybe,Maybe,No,No,Yes,Medication,4165,In-person,Not Taken
+207,36-40,Female,Housewife,38,24,Go out Every day,Yes,Maybe,Maybe,Yes,No,Low,Maybe,Yes,Maybe,Yes,Yes,Medication,2944,In-person,Complete
+208,21-25,Female,Corporate,70,85,More than 2 months,Yes,No,Maybe,Yes,Yes,Low,Yes,No,Maybe,Yes,Yes,Therapy,1269,Phone,Complete
+209,16-20,Male,Others,96,25,1-14 days,Maybe,No,Yes,No,No,High,Yes,Yes,Yes,No,Yes,Therapy,4635,In-person,Incomplete
+210,26-30,Female,Corporate,78,2,Go out Every day,Maybe,Yes,Yes,No,Maybe,Low,Maybe,Maybe,Maybe,Yes,No,Exercise,2462,Phone,Not Taken
+211,40-Above,Female,Others,49,66,1-14 days,Maybe,No,Maybe,Maybe,Yes,Low,Yes,No,Yes,Yes,No,Meditation,1622,Online,Incomplete
+212,26-30,Male,Others,39,88,15-30 days,No,Yes,Yes,Maybe,Yes,Medium,Yes,Maybe,No,No,Yes,Exercise,4261,Online,Incomplete
+213,36-40,Female,Student,74,90,31-60 days,No,No,Maybe,Yes,No,High,Maybe,Yes,Maybe,Yes,No,Therapy,2317,Online,Complete
+214,16-20,Male,Corporate,99,22,31-60 days,No,No,No,Maybe,Yes,Medium,Yes,No,No,Yes,Yes,Medication,4834,In-person,Incomplete
+215,21-25,Female,Corporate,32,23,15-30 days,Maybe,No,Yes,Yes,Maybe,Low,Maybe,Yes,Yes,Yes,No,Meditation,1143,Phone,Not Taken
+216,26-30,Male,Business,48,18,31-60 days,Yes,No,Maybe,Yes,Yes,Medium,Maybe,Yes,Maybe,Yes,Yes,Exercise,3578,Phone,Complete
+217,40-Above,Male,Business,62,94,15-30 days,Maybe,No,Maybe,Yes,No,Low,Maybe,No,No,Yes,No,Therapy,2996,In-person,Complete
+218,26-30,Female,Corporate,68,75,Go out Every day,Yes,Maybe,Maybe,Maybe,Maybe,Low,Maybe,Maybe,No,Yes,Yes,Therapy,1333,In-person,Complete
+219,36-40,Female,Housewife,16,94,1-14 days,Yes,Yes,No,No,Yes,High,Maybe,No,No,No,Yes,Medication,4870,Phone,Incomplete
+220,36-40,Female,Corporate,97,36,1-14 days,Maybe,No,Yes,Yes,Yes,Low,No,Maybe,Maybe,Yes,Yes,Exercise,1167,Online,Not Taken
+221,40-Above,Female,Others,92,24,More than 2 months,Maybe,Yes,Maybe,Yes,Yes,High,No,No,Yes,Yes,No,Therapy,4248,In-person,Complete
+222,21-25,Female,Others,59,22,Go out Every day,No,Yes,Yes,Yes,No,High,Maybe,Maybe,Yes,No,Yes,Medication,4408,Phone,Not Taken
+223,31-35,Female,Student,40,1,More than 2 months,No,No,Yes,No,Yes,High,No,Yes,Maybe,No,No,Meditation,3662,Online,Not Taken
+224,40-Above,Male,Corporate,32,28,More than 2 months,Maybe,Maybe,No,No,No,Medium,Maybe,Yes,Yes,Yes,Yes,Exercise,3742,Phone,Not Taken
+225,31-35,Female,Corporate,70,50,Go out Every day,Yes,Maybe,No,No,No,Medium,Maybe,Yes,Maybe,Yes,Yes,Exercise,3193,Online,Complete
+226,31-35,Female,Business,73,34,1-14 days,Yes,No,No,No,Yes,Medium,Maybe,Yes,Yes,Yes,No,Medication,1452,Online,Complete
+227,16-20,Female,Others,77,64,15-30 days,Yes,Maybe,Yes,Yes,Maybe,High,Maybe,Yes,Yes,No,No,Meditation,4663,Phone,Not Taken
+228,36-40,Female,Student,87,47,15-30 days,Yes,No,No,No,Yes,Medium,Yes,Maybe,Maybe,No,No,Therapy,1744,Online,Not Taken
+229,36-40,Male,Corporate,57,23,1-14 days,Yes,No,Maybe,No,Yes,High,No,Yes,No,Yes,No,Medication,1248,In-person,Complete
+230,26-30,Female,Housewife,28,81,More than 2 months,Yes,Maybe,No,Yes,No,Low,Yes,No,Yes,Yes,Yes,Therapy,2696,Phone,Not Taken
+231,16-20,Female,Student,83,38,31-60 days,Maybe,No,Maybe,Yes,Yes,High,Maybe,Maybe,No,No,Yes,Meditation,2635,Online,Incomplete
+232,21-25,Female,Business,9,50,15-30 days,Maybe,No,Yes,Maybe,No,Low,Yes,Maybe,Maybe,Yes,No,Exercise,1612,In-person,Not Taken
+233,36-40,Female,Housewife,26,49,More than 2 months,Maybe,No,Yes,Maybe,Maybe,Low,Yes,Maybe,Maybe,Yes,No,Therapy,4707,In-person,Incomplete
+234,36-40,Male,Corporate,88,12,15-30 days,Yes,Yes,Yes,Yes,Yes,Low,Maybe,Yes,Maybe,No,Yes,Medication,1782,Phone,Incomplete
+235,26-30,Male,Business,97,54,31-60 days,Yes,Yes,Yes,No,No,Medium,No,Maybe,No,Yes,Yes,Therapy,1849,Phone,Not Taken
+236,40-Above,Female,Student,17,7,Go out Every day,Maybe,No,Yes,Yes,Maybe,Medium,No,Yes,Maybe,Yes,No,Medication,1736,In-person,Not Taken
+237,40-Above,Male,Housewife,29,57,31-60 days,Yes,No,No,Yes,Maybe,High,No,No,Maybe,Yes,Yes,Therapy,4958,Online,Not Taken
+238,26-30,Male,Others,75,55,More than 2 months,No,No,Yes,No,No,Medium,Maybe,Maybe,Maybe,No,No,Medication,1139,Phone,Incomplete
+239,40-Above,Male,Corporate,99,3,31-60 days,Maybe,Yes,Yes,Yes,No,High,Yes,Maybe,Yes,Yes,No,Therapy,4568,Online,Complete
+240,16-20,Male,Corporate,84,9,More than 2 months,Maybe,Maybe,Maybe,Maybe,Maybe,High,Maybe,Yes,Yes,No,Yes,Therapy,3343,Phone,Incomplete
+241,21-25,Female,Housewife,9,18,More than 2 months,No,Yes,Maybe,Maybe,Yes,High,Yes,Yes,Maybe,No,Yes,Exercise,3473,In-person,Not Taken
+242,21-25,Female,Others,21,97,1-14 days,No,Yes,No,Maybe,Maybe,Low,No,No,No,No,Yes,Medication,3058,Phone,Complete
+243,16-20,Male,Corporate,49,47,More than 2 months,No,Maybe,Maybe,Yes,Yes,High,Yes,Maybe,No,Yes,Yes,Medication,1506,Online,Incomplete
+244,16-20,Female,Others,36,38,1-14 days,Yes,No,Maybe,No,No,High,Yes,No,Maybe,No,No,Therapy,3913,Phone,Not Taken
+245,31-35,Female,Others,79,19,Go out Every day,Yes,No,Maybe,Maybe,Maybe,Medium,Yes,Maybe,Maybe,No,No,Exercise,4038,Online,Complete
+246,21-25,Male,Corporate,36,47,31-60 days,Yes,Yes,Maybe,No,No,Low,No,Maybe,No,Yes,Yes,Exercise,2517,In-person,Complete
+247,21-25,Male,Student,51,38,1-14 days,No,No,No,No,Yes,Low,No,No,No,Yes,No,Medication,2214,Online,Incomplete
+248,21-25,Female,Corporate,62,4,1-14 days,Maybe,No,Maybe,Yes,Maybe,Medium,No,Yes,Yes,Yes,Yes,Meditation,1655,In-person,Incomplete
+249,21-25,Female,Housewife,98,52,15-30 days,Yes,Maybe,Maybe,Yes,Maybe,High,Maybe,Yes,No,Yes,No,Therapy,4011,In-person,Complete
+250,40-Above,Female,Student,27,43,15-30 days,Maybe,Yes,Yes,Yes,No,Medium,Maybe,No,Maybe,No,Yes,Medication,1500,Online,Complete
+251,36-40,Female,Student,98,63,1-14 days,Maybe,Yes,No,Yes,Yes,Low,No,Yes,No,Yes,No,Therapy,1279,In-person,Not Taken
+252,31-35,Male,Student,48,57,1-14 days,Yes,No,No,No,Maybe,Low,Maybe,No,Yes,No,No,Medication,3042,In-person,Complete
+253,21-25,Female,Business,81,37,15-30 days,Yes,Yes,Yes,No,Maybe,Low,Maybe,Maybe,Maybe,No,Yes,Exercise,2424,In-person,Not Taken
+254,31-35,Female,Corporate,71,94,15-30 days,Yes,Yes,Yes,No,Maybe,Low,Maybe,Maybe,Maybe,No,No,Meditation,3566,Online,Complete
+255,31-35,Male,Housewife,30,92,Go out Every day,Yes,No,Yes,Maybe,No,High,Yes,No,Yes,Yes,No,Medication,2629,Online,Incomplete
+256,40-Above,Female,Business,54,80,Go out Every day,Yes,Maybe,Maybe,No,No,Low,No,Yes,No,Yes,Yes,Meditation,2806,Phone,Not Taken
+257,40-Above,Male,Corporate,53,39,15-30 days,No,Yes,Maybe,No,Yes,Medium,Maybe,Maybe,Yes,No,No,Medication,2866,Phone,Not Taken
+258,16-20,Female,Business,45,55,1-14 days,Maybe,No,Yes,Yes,Maybe,Medium,No,No,Maybe,No,No,Exercise,3951,In-person,Incomplete
+259,36-40,Female,Business,22,14,15-30 days,No,No,Maybe,Maybe,No,Low,Maybe,Yes,No,No,No,Therapy,4585,In-person,Complete
+260,16-20,Male,Student,58,16,1-14 days,No,Yes,Yes,No,Maybe,High,Maybe,No,Yes,No,Yes,Medication,3778,Online,Not Taken
+261,31-35,Female,Others,40,22,15-30 days,Yes,Maybe,No,Maybe,Yes,Medium,Maybe,No,No,Yes,Yes,Exercise,4982,Phone,Not Taken
+262,16-20,Male,Housewife,63,18,Go out Every day,Maybe,Maybe,Maybe,No,Maybe,High,Yes,Maybe,No,Yes,No,Medication,4157,Online,Not Taken
+263,26-30,Male,Others,73,13,More than 2 months,Maybe,Maybe,Maybe,No,No,Medium,No,Maybe,Yes,Yes,No,Meditation,1830,Phone,Incomplete
+264,16-20,Female,Housewife,56,93,Go out Every day,Yes,Yes,Maybe,Yes,Yes,High,Maybe,Maybe,No,No,Yes,Medication,2702,Phone,Incomplete
+265,40-Above,Male,Others,40,11,31-60 days,Maybe,Yes,Yes,No,Yes,Low,No,Yes,No,No,Yes,Therapy,4347,Phone,Complete
+266,16-20,Male,Corporate,30,33,15-30 days,Yes,Yes,Yes,Maybe,Maybe,High,Yes,No,Maybe,Yes,Yes,Therapy,4120,Phone,Complete
+267,26-30,Male,Housewife,80,20,More than 2 months,Yes,Yes,No,No,Maybe,Medium,No,No,No,No,Yes,Meditation,2863,Online,Incomplete
+268,36-40,Male,Student,48,73,31-60 days,Maybe,Maybe,Maybe,Yes,No,Low,Yes,No,Yes,Yes,Yes,Exercise,3713,Phone,Incomplete
+269,16-20,Male,Business,58,7,1-14 days,No,Yes,Maybe,Yes,No,Medium,No,Yes,No,No,Yes,Exercise,1262,In-person,Not Taken
+270,16-20,Male,Student,82,62,1-14 days,Yes,Maybe,Maybe,Yes,No,High,No,Yes,Maybe,Yes,Yes,Therapy,3582,In-person,Not Taken
+271,16-20,Female,Others,45,73,15-30 days,Yes,Maybe,Yes,Maybe,Maybe,High,Maybe,Yes,No,Yes,No,Medication,3355,Phone,Not Taken
+272,21-25,Male,Corporate,94,22,31-60 days,Maybe,No,No,No,No,High,Yes,Maybe,Maybe,Yes,Yes,Meditation,3791,Phone,Not Taken
+273,36-40,Female,Student,81,41,Go out Every day,No,Maybe,No,No,No,Low,Yes,Maybe,Yes,No,No,Meditation,4771,In-person,Incomplete
+274,31-35,Male,Housewife,65,23,31-60 days,Maybe,Maybe,Maybe,No,Maybe,Medium,Yes,Maybe,No,Yes,Yes,Meditation,1329,In-person,Complete
+275,36-40,Female,Others,19,43,More than 2 months,Maybe,Yes,No,No,No,High,No,Maybe,No,No,No,Medication,1279,In-person,Complete
+276,21-25,Male,Student,96,56,15-30 days,Maybe,Yes,Yes,No,Maybe,High,Maybe,Yes,No,No,No,Meditation,2308,Phone,Complete
+277,31-35,Female,Others,73,16,Go out Every day,Maybe,Maybe,No,Maybe,No,Medium,Maybe,Maybe,No,Yes,No,Meditation,1614,In-person,Not Taken
+278,36-40,Male,Student,31,87,31-60 days,Yes,Yes,Yes,Maybe,Maybe,Low,No,Maybe,No,No,No,Medication,3096,Online,Complete
+279,21-25,Male,Others,43,50,31-60 days,Maybe,Maybe,Yes,Yes,Yes,Medium,Maybe,No,No,Yes,No,Therapy,1661,Phone,Not Taken
+280,16-20,Female,Corporate,60,49,More than 2 months,No,Maybe,No,Maybe,Yes,Medium,No,No,Yes,No,No,Medication,2209,In-person,Incomplete
+281,21-25,Male,Corporate,19,89,Go out Every day,No,Maybe,No,Maybe,Maybe,High,No,Yes,Yes,Yes,Yes,Meditation,3324,Phone,Complete
+282,40-Above,Female,Corporate,96,21,More than 2 months,Maybe,Yes,Maybe,Maybe,No,Low,No,Yes,Maybe,Yes,No,Meditation,4360,Online,Complete
+283,31-35,Female,Corporate,86,58,31-60 days,Yes,Maybe,Yes,Yes,No,Low,Maybe,Yes,No,No,No,Meditation,3296,Online,Not Taken
+284,21-25,Female,Others,72,76,15-30 days,Yes,Maybe,Maybe,Yes,No,Medium,No,Yes,Maybe,No,Yes,Medication,2186,In-person,Complete
+285,36-40,Male,Business,94,23,31-60 days,No,No,Maybe,Yes,Maybe,Medium,Yes,No,Yes,No,No,Meditation,4531,Online,Incomplete
+286,40-Above,Male,Others,98,50,Go out Every day,Maybe,Yes,Maybe,No,Yes,Medium,Yes,No,Yes,No,No,Therapy,2552,Online,Complete
+287,16-20,Female,Housewife,57,77,1-14 days,Yes,No,Maybe,Maybe,No,Low,Maybe,Yes,No,Yes,No,Therapy,2100,Online,Not Taken
+288,16-20,Female,Others,93,16,15-30 days,No,Maybe,Maybe,No,No,High,Maybe,Maybe,Maybe,No,Yes,Therapy,3018,Online,Incomplete
+289,31-35,Male,Student,78,15,Go out Every day,No,Yes,No,Yes,No,Medium,No,No,Maybe,Yes,Yes,Exercise,1382,Online,Incomplete
+290,26-30,Male,Business,86,96,More than 2 months,Yes,No,Maybe,No,Maybe,Medium,Maybe,Yes,Maybe,Yes,Yes,Medication,3960,Phone,Not Taken
+291,21-25,Female,Business,67,20,1-14 days,No,Yes,Yes,Yes,No,Low,Maybe,No,No,Yes,Yes,Medication,1667,Online,Not Taken
+292,31-35,Female,Corporate,13,36,1-14 days,No,No,Yes,No,Yes,Medium,Yes,No,Yes,No,Yes,Medication,2667,In-person,Not Taken
+293,21-25,Female,Business,32,15,Go out Every day,No,Maybe,No,Maybe,No,High,No,Yes,Yes,Yes,No,Exercise,2074,Phone,Incomplete
+294,21-25,Male,Student,75,96,More than 2 months,Maybe,No,Yes,Yes,Maybe,High,Maybe,Yes,Maybe,Yes,Yes,Meditation,4196,In-person,Incomplete
+295,31-35,Male,Others,70,60,1-14 days,Maybe,Maybe,Maybe,No,Maybe,High,Yes,Yes,Maybe,Yes,No,Medication,1979,In-person,Not Taken
+296,40-Above,Male,Student,47,68,1-14 days,Maybe,No,Maybe,No,No,Low,Maybe,Maybe,Yes,No,No,Exercise,2114,Phone,Complete
+297,16-20,Female,Others,62,13,31-60 days,Maybe,Yes,Maybe,Yes,Yes,Medium,Yes,Maybe,Maybe,Yes,No,Exercise,2442,In-person,Not Taken
+298,36-40,Female,Corporate,25,77,More than 2 months,No,Yes,Maybe,No,Yes,High,No,Maybe,Yes,Yes,No,Therapy,4333,Phone,Complete
+299,16-20,Male,Corporate,91,59,1-14 days,No,Maybe,Maybe,Yes,Maybe,Low,No,No,Yes,Yes,Yes,Exercise,2356,Online,Not Taken
+300,26-30,Female,Others,55,67,More than 2 months,Yes,Maybe,Yes,Yes,Maybe,Low,Yes,Maybe,Maybe,Yes,No,Therapy,3922,Phone,Incomplete
+301,36-40,Male,Business,36,75,Go out Every day,Yes,Yes,No,Maybe,Yes,Low,Maybe,Yes,Yes,Yes,Yes,Medication,2368,In-person,Incomplete
+302,21-25,Female,Student,29,59,1-14 days,No,No,Yes,No,No,High,Yes,Yes,Yes,No,No,Medication,4160,In-person,Incomplete
+303,31-35,Male,Corporate,88,21,15-30 days,Yes,No,Yes,No,Yes,Medium,No,No,Maybe,No,Yes,Therapy,4273,In-person,Not Taken
+304,36-40,Male,Corporate,82,4,Go out Every day,No,Yes,Maybe,Maybe,Maybe,Medium,Maybe,Yes,Maybe,No,No,Exercise,3193,Online,Not Taken
+305,26-30,Male,Student,30,40,More than 2 months,No,Yes,Maybe,No,Yes,Medium,Yes,No,No,No,Yes,Medication,4306,Online,Complete
+306,26-30,Male,Corporate,79,3,Go out Every day,Maybe,No,No,No,Maybe,Medium,Yes,No,No,Yes,No,Medication,1443,Online,Not Taken
+307,40-Above,Male,Others,24,93,1-14 days,Yes,Maybe,Yes,Maybe,Maybe,Low,Maybe,No,Maybe,No,No,Medication,1005,In-person,Complete
+308,26-30,Female,Others,39,49,31-60 days,No,Maybe,Yes,No,No,High,No,No,Yes,No,No,Exercise,3790,Phone,Complete
+309,21-25,Female,Business,59,93,31-60 days,Yes,Maybe,Maybe,Yes,No,Medium,No,Yes,Maybe,No,Yes,Medication,3785,Phone,Complete
+310,26-30,Male,Corporate,45,64,15-30 days,Maybe,Maybe,Yes,No,No,Medium,Yes,Yes,Yes,Yes,No,Exercise,4725,Online,Complete
+311,21-25,Female,Student,88,57,Go out Every day,No,Maybe,No,Maybe,Maybe,Low,No,No,No,No,No,Medication,2583,Phone,Complete
+312,26-30,Male,Business,33,43,Go out Every day,Maybe,No,Yes,Maybe,No,Medium,No,Maybe,Yes,Yes,Yes,Meditation,3833,Online,Not Taken
+313,31-35,Female,Student,87,18,15-30 days,Maybe,No,No,Maybe,Yes,Medium,Yes,No,Yes,No,Yes,Therapy,3251,Phone,Complete
+314,26-30,Male,Others,99,86,31-60 days,Yes,No,No,Maybe,Yes,Medium,Maybe,No,Yes,No,No,Therapy,1532,Online,Complete
+315,26-30,Male,Business,49,54,31-60 days,Yes,No,No,No,Maybe,High,No,Maybe,No,Yes,No,Medication,4663,Phone,Complete
+316,31-35,Female,Housewife,74,33,More than 2 months,Yes,Maybe,Yes,No,Yes,Medium,Maybe,Maybe,No,No,No,Exercise,2941,Phone,Not Taken
+317,31-35,Male,Corporate,55,18,More than 2 months,Maybe,Maybe,Maybe,Maybe,No,Low,No,Yes,Yes,Yes,Yes,Exercise,4443,Online,Complete
+318,31-35,Male,Housewife,17,68,1-14 days,Yes,Yes,No,Yes,Yes,High,Maybe,No,No,Yes,No,Medication,4244,In-person,Incomplete
+319,36-40,Female,Student,96,78,More than 2 months,Yes,Maybe,Yes,No,Maybe,High,Yes,Yes,Maybe,No,Yes,Meditation,4814,Phone,Not Taken
+320,36-40,Male,Corporate,70,42,More than 2 months,Maybe,Maybe,Yes,Maybe,Yes,High,No,Maybe,No,Yes,No,Therapy,1321,Online,Incomplete
+321,26-30,Female,Student,19,90,15-30 days,No,Maybe,Maybe,Maybe,No,High,Yes,Maybe,Yes,Yes,No,Medication,3584,Phone,Incomplete
+322,21-25,Female,Corporate,39,83,15-30 days,No,Yes,Yes,Yes,Maybe,High,Yes,Yes,Yes,No,No,Medication,3036,Online,Complete
+323,21-25,Female,Business,59,15,More than 2 months,No,Maybe,Yes,Yes,Maybe,Medium,Maybe,No,Yes,Yes,Yes,Medication,2861,In-person,Complete
+324,36-40,Female,Student,84,44,More than 2 months,No,Maybe,Yes,Maybe,Yes,Medium,Yes,Yes,Yes,Yes,No,Medication,1850,Phone,Complete
+325,31-35,Female,Others,55,76,31-60 days,Maybe,Yes,No,No,No,Low,No,Maybe,Yes,No,No,Meditation,2919,Phone,Incomplete
+326,26-30,Female,Others,54,35,1-14 days,Yes,No,Yes,Yes,No,Medium,Yes,No,Yes,Yes,Yes,Medication,2213,Online,Complete
+327,40-Above,Female,Business,86,76,1-14 days,Yes,No,Yes,Yes,No,High,No,Maybe,No,No,No,Medication,2776,Online,Incomplete
+328,31-35,Male,Others,68,38,15-30 days,No,No,Yes,Maybe,Maybe,Medium,No,Yes,Maybe,Yes,No,Therapy,4503,Phone,Incomplete
+329,36-40,Male,Student,96,29,31-60 days,Yes,Yes,No,Maybe,Yes,Medium,Yes,No,Yes,Yes,Yes,Meditation,2611,Phone,Not Taken
+330,36-40,Female,Corporate,27,80,More than 2 months,No,Yes,No,Yes,No,Low,No,Yes,No,Yes,Yes,Therapy,3457,Online,Not Taken
+331,21-25,Male,Corporate,48,7,15-30 days,Maybe,Yes,No,Yes,No,Medium,No,No,No,No,No,Medication,2474,Online,Incomplete
+332,40-Above,Male,Student,6,92,31-60 days,No,Maybe,Maybe,No,Yes,Low,Maybe,No,Maybe,Yes,No,Therapy,1199,In-person,Complete
+333,21-25,Female,Business,15,91,More than 2 months,Maybe,Maybe,No,No,Yes,Medium,No,No,Yes,Yes,Yes,Exercise,4662,Online,Not Taken
+334,40-Above,Male,Student,72,73,1-14 days,Maybe,No,Yes,Yes,Yes,High,Yes,Yes,Yes,No,Yes,Medication,4448,In-person,Complete
+335,31-35,Male,Housewife,25,35,15-30 days,No,No,No,Yes,No,Medium,Maybe,No,Yes,No,Yes,Medication,1961,Phone,Not Taken
+336,21-25,Male,Business,82,31,More than 2 months,No,No,Yes,Maybe,Maybe,High,Yes,No,Maybe,No,No,Medication,1969,Phone,Complete
+337,31-35,Male,Business,49,4,Go out Every day,No,Yes,No,No,Maybe,High,No,Yes,Yes,No,No,Medication,1136,Phone,Incomplete
+338,40-Above,Female,Business,75,92,Go out Every day,No,Yes,Maybe,Maybe,Yes,High,Yes,Yes,Maybe,Yes,No,Meditation,4680,Phone,Incomplete
+339,31-35,Female,Business,18,1,1-14 days,No,No,Yes,Yes,Yes,Low,Maybe,Maybe,No,No,No,Exercise,2918,Online,Not Taken
+340,16-20,Female,Housewife,96,75,More than 2 months,Maybe,Yes,No,No,Yes,Low,Maybe,Yes,No,No,No,Medication,3358,In-person,Incomplete
+341,16-20,Female,Corporate,9,26,31-60 days,No,Yes,Yes,No,Maybe,Low,Maybe,Yes,Maybe,No,Yes,Therapy,4322,Online,Incomplete
+342,40-Above,Male,Business,7,48,1-14 days,No,Yes,No,Yes,Maybe,High,Yes,Yes,No,Yes,No,Therapy,4612,Phone,Complete
+343,26-30,Male,Housewife,28,82,31-60 days,No,No,Yes,No,Yes,Low,No,Yes,Maybe,Yes,No,Medication,4616,In-person,Not Taken
+344,40-Above,Female,Corporate,44,16,1-14 days,No,Maybe,No,Maybe,Yes,Low,No,No,No,Yes,No,Medication,1266,Online,Incomplete
+345,40-Above,Female,Corporate,11,80,1-14 days,Yes,Maybe,No,Maybe,Yes,Low,Yes,Maybe,Maybe,No,No,Exercise,1056,In-person,Not Taken
+346,16-20,Female,Student,52,92,15-30 days,No,Maybe,Maybe,Yes,No,Low,Yes,Yes,Yes,Yes,Yes,Exercise,2183,Phone,Complete
+347,16-20,Female,Student,72,58,15-30 days,No,No,No,Maybe,Yes,Medium,Yes,No,No,No,Yes,Medication,1203,In-person,Complete
+348,31-35,Female,Student,73,16,15-30 days,Yes,Yes,Yes,Maybe,Yes,High,No,No,No,No,No,Medication,3166,Phone,Incomplete
+349,31-35,Male,Student,65,85,More than 2 months,Yes,Yes,Maybe,No,Yes,Medium,Maybe,No,No,Yes,No,Meditation,4582,Phone,Incomplete
+350,40-Above,Female,Student,29,58,More than 2 months,Maybe,Yes,Maybe,Maybe,Yes,High,No,Yes,Maybe,No,No,Therapy,1927,In-person,Incomplete
+351,31-35,Female,Business,11,3,1-14 days,No,Yes,No,No,Yes,Low,No,Maybe,No,No,Yes,Therapy,1820,Online,Complete
+352,36-40,Female,Housewife,20,33,31-60 days,Yes,Maybe,No,Yes,No,High,Yes,No,Maybe,Yes,Yes,Exercise,2769,Phone,Not Taken
+353,16-20,Male,Student,86,18,More than 2 months,Maybe,No,Yes,Yes,No,Low,No,Yes,Yes,No,Yes,Exercise,3842,Online,Not Taken
+354,16-20,Male,Housewife,93,6,1-14 days,Yes,Maybe,Maybe,No,No,Low,Maybe,No,Yes,No,Yes,Exercise,2372,In-person,Incomplete
+355,16-20,Male,Housewife,73,76,Go out Every day,No,Yes,Maybe,Maybe,No,Medium,No,Maybe,Maybe,No,No,Meditation,4766,Online,Not Taken
+356,36-40,Female,Corporate,1,55,More than 2 months,Maybe,Yes,No,Maybe,Maybe,Low,No,Yes,Maybe,No,Yes,Medication,3485,Phone,Complete
+357,31-35,Female,Others,25,82,Go out Every day,No,Yes,Yes,Yes,Maybe,Low,No,Yes,Yes,No,Yes,Therapy,1253,Phone,Not Taken
+358,21-25,Male,Corporate,23,70,Go out Every day,Yes,No,Yes,Yes,Maybe,High,No,No,No,Yes,Yes,Therapy,1374,Phone,Incomplete
+359,36-40,Male,Housewife,87,2,Go out Every day,Yes,Yes,No,No,Yes,Medium,Yes,No,Maybe,No,No,Medication,4757,Online,Incomplete
+360,21-25,Male,Student,95,20,15-30 days,No,No,Yes,No,Maybe,High,Maybe,No,Maybe,Yes,Yes,Meditation,1686,Phone,Incomplete
+361,26-30,Male,Student,60,3,More than 2 months,No,No,Yes,No,Maybe,High,No,Maybe,Yes,Yes,No,Meditation,4570,Phone,Complete
+362,21-25,Female,Others,28,64,More than 2 months,No,No,Maybe,No,Maybe,Low,No,No,Yes,No,No,Medication,3120,In-person,Not Taken
+363,36-40,Male,Student,20,40,More than 2 months,Yes,No,Yes,No,Yes,Low,Maybe,No,Maybe,Yes,Yes,Meditation,3213,In-person,Not Taken
+364,21-25,Male,Housewife,57,84,15-30 days,Yes,Maybe,No,Maybe,Yes,Low,Yes,No,Maybe,Yes,No,Medication,4196,Phone,Complete
+365,26-30,Female,Student,30,14,15-30 days,Yes,Yes,No,No,Yes,Medium,Maybe,Maybe,Yes,No,Yes,Meditation,1661,In-person,Complete
+366,26-30,Female,Corporate,84,96,More than 2 months,Maybe,Maybe,Yes,No,No,Medium,No,Maybe,Yes,No,Yes,Therapy,1164,Phone,Complete
+367,26-30,Female,Corporate,85,70,1-14 days,Maybe,Yes,No,No,Maybe,Medium,Maybe,Yes,Maybe,No,Yes,Meditation,2392,Online,Not Taken
+368,36-40,Male,Others,58,16,15-30 days,Maybe,Yes,No,No,Maybe,Low,No,Yes,Maybe,No,Yes,Meditation,4844,Online,Incomplete
+369,26-30,Female,Student,9,33,Go out Every day,Yes,Yes,Yes,Yes,Maybe,Low,No,Maybe,Yes,No,Yes,Meditation,2776,In-person,Not Taken
+370,31-35,Male,Corporate,1,7,More than 2 months,Yes,Maybe,Yes,Yes,Maybe,High,Yes,Maybe,No,Yes,Yes,Exercise,4634,Online,Complete
+371,21-25,Male,Housewife,11,7,1-14 days,Maybe,Yes,No,Maybe,Maybe,Medium,Maybe,Maybe,Yes,No,Yes,Exercise,4353,Phone,Complete
+372,40-Above,Female,Corporate,26,91,15-30 days,No,Yes,Yes,Maybe,Yes,High,Yes,Maybe,No,Yes,No,Therapy,3407,In-person,Complete
+373,31-35,Male,Student,35,73,15-30 days,Maybe,Yes,Yes,No,No,Low,No,Yes,Yes,Yes,No,Therapy,4916,In-person,Incomplete
+374,40-Above,Female,Business,34,70,15-30 days,Maybe,No,Maybe,No,No,Low,Maybe,No,No,No,Yes,Therapy,2497,Phone,Not Taken
+375,21-25,Male,Business,16,20,Go out Every day,Yes,No,Yes,Maybe,Maybe,High,Maybe,Maybe,No,Yes,No,Exercise,4481,Phone,Complete
+376,26-30,Male,Others,63,14,More than 2 months,Yes,Maybe,Maybe,No,Yes,Low,Yes,No,Yes,No,No,Therapy,1634,Phone,Complete
+377,31-35,Female,Student,31,36,31-60 days,No,Yes,Maybe,Yes,No,Medium,Yes,Maybe,Maybe,No,Yes,Therapy,2428,In-person,Incomplete
+378,36-40,Female,Others,9,9,1-14 days,Yes,No,No,No,Yes,Medium,No,Maybe,Yes,No,No,Therapy,4452,Online,Incomplete
+379,40-Above,Female,Business,23,73,15-30 days,Yes,Yes,Maybe,Yes,Yes,High,No,No,Yes,No,No,Meditation,2408,Phone,Not Taken
+380,40-Above,Male,Others,96,30,1-14 days,Maybe,No,No,Yes,Maybe,Medium,No,Yes,Yes,Yes,No,Medication,4690,In-person,Not Taken
+381,16-20,Male,Business,70,49,31-60 days,Maybe,Yes,Maybe,Maybe,No,High,Maybe,Maybe,Maybe,Yes,No,Therapy,2558,Online,Not Taken
+382,16-20,Female,Housewife,63,52,15-30 days,Yes,Yes,Maybe,Maybe,Maybe,High,No,Maybe,Maybe,Yes,No,Medication,4852,Phone,Incomplete
+383,26-30,Male,Student,73,11,31-60 days,Yes,No,No,Maybe,Yes,High,Maybe,Yes,Maybe,No,Yes,Therapy,3531,Phone,Not Taken
+384,21-25,Female,Housewife,69,65,1-14 days,No,Yes,Maybe,Yes,Maybe,Low,No,Maybe,No,No,No,Therapy,1717,In-person,Not Taken
+385,40-Above,Female,Housewife,97,48,Go out Every day,No,Maybe,Yes,Maybe,No,Low,Maybe,Yes,Yes,Yes,No,Therapy,2899,Online,Incomplete
+386,31-35,Female,Housewife,22,15,15-30 days,Maybe,No,No,Maybe,Maybe,Low,No,No,Yes,No,No,Meditation,3884,Online,Not Taken
+387,31-35,Male,Business,66,22,15-30 days,Maybe,Maybe,Maybe,Maybe,Yes,Medium,Maybe,No,No,No,Yes,Medication,1501,In-person,Not Taken
+388,36-40,Female,Business,51,83,31-60 days,No,Maybe,Yes,Yes,No,Medium,No,Maybe,Yes,Yes,Yes,Medication,4490,Online,Complete
+389,21-25,Female,Student,47,84,31-60 days,No,Yes,Maybe,Maybe,Yes,Low,Maybe,No,No,Yes,No,Exercise,1798,Online,Complete
+390,16-20,Male,Student,23,69,31-60 days,Yes,No,No,Yes,Yes,Medium,Maybe,No,No,Yes,Yes,Medication,3029,Phone,Incomplete
+391,31-35,Female,Housewife,5,35,1-14 days,Maybe,Yes,Maybe,Yes,No,Low,Yes,No,Maybe,No,Yes,Medication,1157,Online,Complete
+392,16-20,Female,Business,92,94,31-60 days,Maybe,No,Yes,Yes,No,Low,Maybe,No,Yes,Yes,Yes,Medication,3930,Phone,Incomplete
+393,36-40,Female,Corporate,47,9,More than 2 months,No,Yes,Maybe,No,No,Medium,Yes,Maybe,Maybe,Yes,No,Medication,1590,In-person,Complete
+394,21-25,Female,Corporate,74,42,1-14 days,Yes,No,Yes,Maybe,Maybe,High,Maybe,Maybe,Yes,Yes,Yes,Meditation,1444,Phone,Not Taken
+395,21-25,Male,Corporate,24,85,31-60 days,No,Yes,No,No,Yes,High,No,Yes,No,No,Yes,Exercise,4659,Phone,Not Taken
+396,21-25,Female,Business,67,14,15-30 days,Yes,Maybe,No,Yes,No,Medium,Maybe,Yes,Maybe,No,Yes,Meditation,3549,Phone,Not Taken
+397,40-Above,Male,Housewife,12,83,1-14 days,Maybe,Yes,No,Yes,Maybe,Medium,Maybe,No,Yes,No,Yes,Medication,3042,In-person,Not Taken
+398,31-35,Female,Others,42,38,1-14 days,Maybe,Maybe,Yes,Yes,Yes,Low,No,No,No,Yes,No,Exercise,2118,In-person,Not Taken
+399,21-25,Male,Housewife,78,35,1-14 days,Maybe,No,Yes,Maybe,No,Medium,Maybe,Maybe,Yes,No,No,Meditation,3555,Online,Not Taken
+400,36-40,Female,Student,15,34,31-60 days,Maybe,No,Maybe,Yes,Maybe,High,Yes,Maybe,Yes,Yes,Yes,Exercise,1127,Phone,Not Taken
+401,21-25,Female,Housewife,47,37,More than 2 months,Yes,No,Yes,No,No,Medium,Yes,Maybe,Maybe,No,No,Meditation,3212,In-person,Incomplete
+402,21-25,Male,Business,66,14,Go out Every day,Maybe,Maybe,Maybe,No,No,Medium,Yes,Yes,No,No,Yes,Therapy,4070,In-person,Not Taken
+403,36-40,Male,Housewife,78,50,More than 2 months,Maybe,Maybe,No,Yes,Maybe,Medium,No,No,No,No,No,Medication,2857,Online,Complete
+404,40-Above,Male,Others,90,60,15-30 days,Yes,Yes,No,Yes,Maybe,High,Maybe,Yes,No,No,Yes,Medication,2933,Phone,Not Taken
+405,16-20,Female,Corporate,13,23,More than 2 months,Yes,Maybe,No,Maybe,Yes,Medium,Maybe,Yes,Yes,Yes,No,Medication,4505,Phone,Not Taken
+406,31-35,Female,Business,52,31,Go out Every day,No,Maybe,No,No,Yes,High,No,Yes,No,No,Yes,Meditation,4608,Phone,Complete
+407,16-20,Female,Student,14,39,More than 2 months,Maybe,Yes,Yes,Yes,Maybe,High,Maybe,Yes,Maybe,No,Yes,Exercise,2635,Online,Incomplete
+408,16-20,Male,Housewife,38,72,More than 2 months,No,Yes,Yes,Yes,Maybe,Medium,No,No,Maybe,Yes,Yes,Medication,2930,Phone,Complete
+409,21-25,Female,Student,31,25,15-30 days,No,Maybe,Yes,Maybe,No,Low,No,Yes,No,Yes,No,Exercise,3109,Phone,Complete
+410,26-30,Male,Housewife,46,92,15-30 days,Yes,Yes,Yes,Maybe,No,High,No,Maybe,Maybe,No,Yes,Therapy,4493,Phone,Incomplete
+411,21-25,Female,Student,20,21,31-60 days,Yes,Maybe,No,Yes,No,Medium,Yes,No,No,No,No,Therapy,4519,In-person,Not Taken
+412,16-20,Female,Student,52,93,15-30 days,No,Yes,Maybe,No,No,Low,Yes,No,No,No,No,Medication,3264,In-person,Complete
+413,26-30,Female,Business,20,75,1-14 days,Yes,Maybe,Yes,No,Yes,Low,Yes,No,Maybe,Yes,No,Therapy,3470,In-person,Incomplete
+414,26-30,Male,Others,96,64,More than 2 months,No,Yes,Yes,No,No,High,Yes,No,Maybe,Yes,No,Meditation,1700,In-person,Not Taken
+415,16-20,Male,Housewife,80,19,15-30 days,No,Maybe,No,Maybe,Yes,Low,Maybe,No,Yes,Yes,Yes,Medication,1330,In-person,Complete
+416,21-25,Male,Others,50,67,15-30 days,Maybe,No,No,No,Maybe,Medium,Yes,Maybe,Maybe,Yes,No,Therapy,1393,Phone,Not Taken
+417,16-20,Male,Student,79,22,15-30 days,Maybe,Maybe,No,Yes,Maybe,High,Yes,Yes,Yes,Yes,No,Exercise,3517,Phone,Incomplete
+418,16-20,Male,Student,45,77,31-60 days,Maybe,No,Yes,Yes,Yes,Low,Maybe,No,Maybe,Yes,No,Exercise,1687,Phone,Not Taken
+419,40-Above,Female,Others,36,63,15-30 days,Yes,Maybe,Maybe,No,Yes,Low,Yes,Maybe,Maybe,No,No,Therapy,2084,Online,Incomplete
+420,16-20,Female,Others,65,2,More than 2 months,Maybe,No,No,Yes,Yes,Low,No,Maybe,Yes,No,No,Exercise,2630,In-person,Complete
+421,21-25,Female,Student,91,80,1-14 days,No,Maybe,Yes,No,Yes,Medium,No,No,Yes,Yes,No,Exercise,2765,Online,Not Taken
+422,21-25,Female,Business,98,95,1-14 days,Maybe,Maybe,Maybe,Yes,Yes,High,Yes,No,Yes,Yes,No,Exercise,2515,In-person,Complete
+423,31-35,Female,Business,70,58,More than 2 months,Yes,Yes,Yes,Maybe,Maybe,Low,No,Yes,Maybe,No,Yes,Exercise,1184,Online,Not Taken
+424,21-25,Male,Business,61,48,1-14 days,No,Yes,No,Yes,Maybe,High,No,No,No,No,No,Medication,1127,Phone,Incomplete
+425,31-35,Male,Others,39,77,15-30 days,Maybe,No,Maybe,Maybe,Maybe,Medium,No,Yes,Yes,Yes,Yes,Medication,2114,In-person,Not Taken
+426,31-35,Male,Business,22,45,15-30 days,No,Maybe,Yes,Yes,Yes,Low,Maybe,Yes,Yes,Yes,No,Therapy,4881,In-person,Complete
+427,21-25,Male,Business,71,68,15-30 days,No,Yes,Maybe,Maybe,Maybe,High,No,No,No,Yes,No,Meditation,4938,In-person,Incomplete
+428,26-30,Male,Housewife,63,77,More than 2 months,Yes,Yes,Yes,No,No,High,Maybe,No,Maybe,No,No,Medication,3454,Phone,Incomplete
+429,21-25,Female,Business,86,70,1-14 days,No,Yes,Maybe,Yes,No,Medium,No,Maybe,No,No,Yes,Medication,4537,In-person,Not Taken
+430,26-30,Male,Corporate,22,8,1-14 days,Yes,Yes,No,Maybe,Maybe,Medium,No,Maybe,Yes,Yes,No,Exercise,3459,In-person,Complete
+431,40-Above,Female,Corporate,53,93,1-14 days,Yes,Maybe,Yes,Yes,Yes,High,Yes,Maybe,No,Yes,Yes,Exercise,4683,Online,Not Taken
+432,40-Above,Female,Student,65,50,More than 2 months,Yes,Maybe,Maybe,No,No,Low,Maybe,No,No,No,No,Meditation,1163,Online,Complete
+433,36-40,Male,Corporate,46,39,More than 2 months,No,Yes,No,Maybe,Maybe,Medium,Maybe,Yes,No,Yes,No,Meditation,2782,In-person,Not Taken
+434,26-30,Male,Business,95,64,31-60 days,No,No,Maybe,No,Yes,High,Yes,No,Maybe,No,No,Medication,1089,Online,Complete
+435,26-30,Female,Corporate,2,50,31-60 days,Yes,Yes,Yes,Maybe,Yes,Medium,Maybe,Maybe,Yes,No,No,Exercise,1820,Phone,Incomplete
+436,21-25,Female,Housewife,1,43,31-60 days,Maybe,No,No,No,Maybe,High,No,Maybe,Yes,Yes,Yes,Therapy,1501,Online,Complete
+437,40-Above,Female,Corporate,8,49,1-14 days,Maybe,No,No,Maybe,Yes,Low,No,Yes,No,No,No,Meditation,2619,Phone,Complete
+438,16-20,Male,Business,31,98,More than 2 months,Yes,Yes,Yes,Yes,No,Low,Yes,No,Yes,No,Yes,Meditation,2770,Phone,Incomplete
+439,21-25,Male,Student,63,13,15-30 days,Yes,No,No,No,No,High,No,Yes,Maybe,No,No,Meditation,2857,Phone,Not Taken
+440,21-25,Male,Housewife,77,23,1-14 days,No,Maybe,Maybe,Maybe,No,Medium,Maybe,Maybe,Maybe,No,No,Exercise,1537,Phone,Not Taken
+441,36-40,Female,Student,8,57,31-60 days,No,Yes,No,Yes,No,Low,No,Maybe,No,Yes,Yes,Medication,1576,Online,Not Taken
+442,31-35,Male,Business,45,90,Go out Every day,Yes,Maybe,Yes,Maybe,Maybe,Low,Yes,Maybe,No,Yes,Yes,Therapy,2936,In-person,Incomplete
+443,21-25,Male,Student,84,83,Go out Every day,Maybe,Maybe,Maybe,Yes,Yes,High,Maybe,Yes,Maybe,No,Yes,Therapy,4259,Phone,Not Taken
+444,36-40,Female,Student,48,20,31-60 days,No,No,Yes,No,No,High,Maybe,Maybe,No,No,No,Meditation,3725,In-person,Complete
+445,36-40,Female,Others,80,93,15-30 days,Yes,Maybe,No,Yes,No,High,Maybe,Maybe,Yes,Yes,No,Exercise,4989,Online,Incomplete
+446,26-30,Male,Corporate,28,43,15-30 days,Yes,Maybe,Maybe,No,Yes,Low,Yes,Maybe,No,No,No,Medication,4219,Online,Not Taken
+447,36-40,Male,Student,33,87,More than 2 months,Yes,No,No,Yes,No,Low,Maybe,No,Maybe,No,Yes,Exercise,1977,Phone,Not Taken
+448,16-20,Female,Student,69,56,More than 2 months,Yes,Yes,No,No,No,Low,No,Yes,Maybe,Yes,Yes,Meditation,4739,Phone,Incomplete
+449,40-Above,Female,Student,12,20,Go out Every day,Maybe,Yes,Yes,Maybe,No,High,Maybe,Maybe,Maybe,Yes,No,Exercise,2251,Phone,Complete
+450,16-20,Male,Business,52,24,15-30 days,Yes,Maybe,Maybe,Yes,Maybe,Low,No,No,Yes,No,Yes,Therapy,2051,Phone,Incomplete
+451,31-35,Male,Student,65,31,1-14 days,Yes,Maybe,Maybe,No,No,High,Yes,No,Yes,Yes,No,Therapy,1025,In-person,Not Taken
+452,26-30,Female,Student,59,26,1-14 days,No,Maybe,Maybe,No,Yes,Low,No,Maybe,Yes,Yes,Yes,Therapy,3011,In-person,Complete
+453,31-35,Female,Corporate,25,14,Go out Every day,Maybe,Maybe,Maybe,No,No,Medium,Maybe,No,Maybe,Yes,Yes,Medication,3797,Phone,Incomplete
+454,21-25,Male,Others,16,82,More than 2 months,Yes,No,Maybe,Maybe,Yes,Medium,Yes,Yes,Yes,Yes,No,Therapy,4694,In-person,Not Taken
+455,31-35,Female,Others,3,45,31-60 days,Yes,No,No,Yes,No,Low,No,Maybe,No,No,No,Meditation,3531,In-person,Incomplete
+456,16-20,Male,Corporate,9,20,15-30 days,No,Maybe,No,Yes,No,Low,Maybe,No,Maybe,Yes,Yes,Therapy,1816,In-person,Not Taken
+457,21-25,Female,Business,80,16,More than 2 months,Yes,Yes,Maybe,Yes,Yes,Medium,Maybe,Yes,Maybe,Yes,Yes,Medication,1419,In-person,Not Taken
+458,21-25,Male,Business,84,40,15-30 days,Yes,Yes,Yes,Maybe,Maybe,Low,Maybe,Maybe,Yes,No,Yes,Exercise,3651,Phone,Not Taken
+459,21-25,Male,Student,38,87,15-30 days,Yes,Maybe,Yes,No,Yes,Medium,Yes,Maybe,No,No,No,Exercise,2329,Phone,Not Taken
+460,21-25,Female,Student,62,4,Go out Every day,Yes,No,Maybe,No,Maybe,High,No,Maybe,Maybe,No,No,Therapy,3545,In-person,Incomplete
+461,26-30,Male,Others,32,59,More than 2 months,Maybe,No,Yes,No,Yes,High,No,No,Maybe,No,Yes,Therapy,4590,Phone,Incomplete
+462,40-Above,Male,Others,57,70,Go out Every day,No,Yes,Yes,No,No,Low,No,Maybe,No,No,Yes,Exercise,2180,Online,Incomplete
+463,36-40,Female,Business,61,29,15-30 days,Yes,No,Maybe,No,Maybe,Low,Maybe,Maybe,Yes,No,No,Exercise,4975,Phone,Not Taken
+464,40-Above,Female,Housewife,67,84,More than 2 months,Maybe,Maybe,Maybe,No,Yes,High,No,Yes,Yes,Yes,Yes,Meditation,3915,Phone,Not Taken
+465,16-20,Male,Corporate,21,96,1-14 days,Yes,No,Maybe,Yes,Yes,High,Maybe,Maybe,Maybe,Yes,Yes,Meditation,2428,In-person,Incomplete
+466,26-30,Male,Others,75,40,31-60 days,Yes,No,Yes,Maybe,No,Medium,Maybe,Maybe,Maybe,Yes,No,Meditation,1647,In-person,Incomplete
+467,36-40,Female,Housewife,26,97,15-30 days,Maybe,Maybe,No,Maybe,Maybe,Low,Yes,Yes,Yes,Yes,Yes,Exercise,4421,In-person,Not Taken
+468,21-25,Male,Housewife,66,81,31-60 days,Maybe,Yes,Yes,No,No,Medium,Maybe,Maybe,Maybe,Yes,Yes,Therapy,2552,Phone,Complete
+469,40-Above,Female,Business,30,92,1-14 days,Maybe,Yes,Yes,No,No,High,No,No,Yes,No,No,Medication,3347,Phone,Incomplete
+470,40-Above,Male,Housewife,69,58,15-30 days,No,No,No,Yes,Yes,Medium,Yes,Maybe,Maybe,No,No,Exercise,2717,In-person,Complete
+471,16-20,Male,Housewife,23,70,More than 2 months,Maybe,No,Maybe,Maybe,Yes,Medium,No,Maybe,Maybe,Yes,Yes,Medication,1485,Phone,Incomplete
+472,16-20,Female,Housewife,56,97,More than 2 months,No,No,Yes,No,Maybe,Low,No,Maybe,No,No,Yes,Medication,3379,Phone,Incomplete
+473,31-35,Female,Housewife,84,68,31-60 days,Maybe,Yes,Yes,Maybe,Maybe,Low,Yes,No,Yes,No,No,Therapy,2681,Phone,Incomplete
+474,36-40,Female,Housewife,39,10,More than 2 months,Yes,Maybe,Maybe,No,Maybe,Low,No,Maybe,Maybe,No,No,Therapy,2516,In-person,Not Taken
+475,16-20,Male,Housewife,99,46,31-60 days,Yes,Maybe,Yes,Maybe,No,High,Maybe,Maybe,Yes,Yes,No,Meditation,1075,In-person,Not Taken
+476,40-Above,Male,Business,96,17,1-14 days,Maybe,No,Maybe,No,Yes,Low,Maybe,No,No,No,No,Meditation,4696,In-person,Not Taken
+477,16-20,Female,Housewife,99,57,More than 2 months,No,Yes,Yes,Yes,Maybe,High,No,No,Maybe,Yes,Yes,Medication,4453,In-person,Not Taken
+478,36-40,Male,Business,49,71,More than 2 months,Yes,Maybe,Maybe,Yes,No,Medium,Maybe,Yes,Maybe,No,Yes,Therapy,4389,Online,Not Taken
+479,16-20,Female,Housewife,78,44,1-14 days,Yes,Yes,No,Yes,Yes,High,No,Maybe,Maybe,No,Yes,Medication,1239,Online,Complete
+480,31-35,Male,Business,96,8,Go out Every day,Yes,No,Maybe,Maybe,No,Low,No,No,Maybe,No,No,Therapy,3146,In-person,Complete
+481,16-20,Female,Student,79,86,15-30 days,Maybe,No,No,No,No,Low,Yes,Yes,Yes,No,No,Meditation,1436,Phone,Complete
+482,21-25,Male,Housewife,50,80,More than 2 months,No,No,Maybe,Yes,Maybe,Low,Maybe,Maybe,No,No,No,Meditation,3026,Phone,Complete
+483,16-20,Male,Student,72,38,1-14 days,No,Yes,Maybe,Yes,Yes,Medium,Maybe,Yes,Yes,Yes,No,Exercise,4672,In-person,Not Taken
+484,36-40,Male,Others,13,56,Go out Every day,Maybe,Maybe,Yes,Yes,No,Low,Yes,Yes,Yes,No,Yes,Exercise,1920,Online,Complete
+485,16-20,Male,Housewife,81,34,Go out Every day,Yes,Yes,No,Maybe,No,Medium,Yes,No,Maybe,Yes,Yes,Therapy,1562,In-person,Not Taken
+486,40-Above,Male,Others,29,46,More than 2 months,No,Yes,Maybe,No,Maybe,Low,No,Maybe,Maybe,Yes,Yes,Medication,4726,Phone,Not Taken
+487,31-35,Female,Business,45,26,31-60 days,Yes,Maybe,Yes,Maybe,No,Low,Yes,Yes,No,Yes,No,Therapy,2316,Phone,Incomplete
+488,31-35,Female,Corporate,13,81,More than 2 months,Maybe,Yes,Maybe,Maybe,Yes,High,No,Maybe,Yes,No,No,Exercise,4035,In-person,Not Taken
+489,26-30,Female,Housewife,68,84,1-14 days,Maybe,No,No,Yes,Maybe,Low,Yes,Maybe,Yes,No,Yes,Medication,3298,In-person,Not Taken
+490,21-25,Female,Others,65,72,Go out Every day,Maybe,Yes,Maybe,Yes,Yes,Low,No,Yes,No,Yes,Yes,Exercise,1225,In-person,Incomplete
+491,36-40,Female,Business,10,70,More than 2 months,Yes,Yes,No,Yes,No,Medium,No,Yes,No,No,Yes,Exercise,2923,Phone,Incomplete
+492,16-20,Male,Business,65,63,31-60 days,Yes,No,No,No,No,High,Yes,Maybe,No,Yes,Yes,Exercise,3407,Phone,Complete
+493,40-Above,Female,Others,63,68,More than 2 months,Maybe,Yes,Maybe,Maybe,No,Low,Yes,Maybe,Yes,No,Yes,Therapy,4793,In-person,Incomplete
+494,21-25,Male,Others,71,21,1-14 days,No,No,Maybe,Maybe,Yes,High,Maybe,Yes,Yes,No,Yes,Medication,1860,Online,Complete
+495,26-30,Female,Others,19,16,31-60 days,Yes,Maybe,Yes,Maybe,Yes,High,Yes,Yes,Maybe,No,Yes,Therapy,3885,Phone,Complete
+496,31-35,Male,Student,14,35,31-60 days,Yes,No,No,Maybe,Maybe,High,No,No,Yes,Yes,Yes,Medication,3527,In-person,Not Taken
+497,16-20,Male,Business,38,4,15-30 days,Maybe,Maybe,No,Yes,Maybe,Low,Yes,No,No,Yes,No,Therapy,3342,In-person,Complete
+498,16-20,Male,Business,62,56,Go out Every day,Yes,Yes,No,No,No,Low,No,Maybe,No,No,No,Therapy,2380,Phone,Not Taken
+499,26-30,Female,Corporate,17,67,31-60 days,No,No,Yes,Maybe,Maybe,Low,No,No,Maybe,No,No,Meditation,1635,In-person,Incomplete
+500,16-20,Female,Business,14,42,1-14 days,Maybe,No,Yes,Yes,Yes,Medium,No,Yes,No,No,Yes,Meditation,3435,Online,Not Taken
+501,21-25,Male,Business,54,37,15-30 days,Maybe,Maybe,No,Yes,Yes,Low,Maybe,No,Yes,Yes,Yes,Therapy,4740,Online,Incomplete
+502,26-30,Male,Others,4,46,More than 2 months,Maybe,No,Maybe,No,No,Low,Maybe,No,Maybe,No,Yes,Medication,2662,In-person,Complete
+503,26-30,Male,Housewife,50,97,31-60 days,Yes,No,No,Maybe,Yes,High,No,No,Maybe,No,No,Meditation,4866,In-person,Complete
+504,40-Above,Male,Corporate,13,39,Go out Every day,No,No,No,Yes,Yes,Medium,Maybe,Maybe,Yes,Yes,Yes,Therapy,2321,Online,Incomplete
+505,40-Above,Female,Business,51,43,15-30 days,No,Yes,Maybe,Yes,Yes,Medium,No,Maybe,Yes,No,No,Medication,3651,Phone,Incomplete
+506,36-40,Female,Housewife,57,88,1-14 days,Maybe,No,No,Maybe,Yes,Medium,Yes,No,No,Yes,Yes,Meditation,2888,In-person,Not Taken
+507,40-Above,Female,Corporate,9,15,1-14 days,Maybe,Yes,Yes,Maybe,Yes,Low,No,No,No,No,Yes,Therapy,4535,Online,Incomplete
+508,21-25,Male,Corporate,56,99,Go out Every day,Yes,Maybe,No,Yes,Yes,Medium,No,No,No,Yes,Yes,Therapy,2765,Online,Not Taken
+509,26-30,Male,Student,45,90,1-14 days,Maybe,No,No,Maybe,No,Medium,Yes,No,Yes,No,No,Therapy,1466,In-person,Incomplete
+510,16-20,Female,Business,74,14,15-30 days,Yes,No,No,Yes,Maybe,High,Maybe,No,Yes,No,No,Therapy,1500,In-person,Not Taken
+511,36-40,Female,Housewife,76,49,31-60 days,Maybe,No,No,Yes,Maybe,High,Yes,Yes,Maybe,No,No,Exercise,1057,Online,Complete
+512,26-30,Male,Corporate,73,90,More than 2 months,Yes,Maybe,No,Maybe,Maybe,Low,No,No,No,No,No,Meditation,4234,In-person,Incomplete
+513,16-20,Female,Corporate,40,52,15-30 days,Yes,Yes,Maybe,Maybe,No,Medium,Maybe,Maybe,Maybe,No,Yes,Medication,1678,In-person,Not Taken
+514,16-20,Male,Corporate,61,55,31-60 days,Yes,No,Yes,No,Maybe,Low,Yes,Maybe,Maybe,No,Yes,Therapy,1104,Phone,Incomplete
+515,26-30,Female,Corporate,73,78,1-14 days,Maybe,Yes,No,Yes,Maybe,Low,Yes,No,Yes,No,Yes,Exercise,4570,In-person,Complete
+516,16-20,Male,Housewife,32,59,More than 2 months,No,Yes,No,Yes,Yes,Medium,No,Yes,Yes,No,No,Meditation,1827,Online,Incomplete
+517,31-35,Male,Housewife,7,52,Go out Every day,No,No,Maybe,Maybe,Maybe,High,Maybe,Yes,No,Yes,Yes,Therapy,4790,Online,Not Taken
+518,26-30,Male,Business,63,38,31-60 days,Maybe,Yes,Maybe,Maybe,No,Medium,Yes,No,No,No,Yes,Meditation,3364,Phone,Complete
+519,36-40,Male,Corporate,49,93,Go out Every day,Maybe,Maybe,No,No,No,Medium,No,No,Maybe,Yes,No,Meditation,2474,Phone,Not Taken
+520,36-40,Male,Housewife,35,17,Go out Every day,Maybe,No,Yes,No,Maybe,High,No,Yes,No,No,No,Exercise,1774,In-person,Not Taken
+521,16-20,Male,Housewife,83,57,31-60 days,No,No,No,Yes,Yes,High,No,Maybe,No,No,Yes,Exercise,4421,Online,Incomplete
+522,36-40,Male,Student,44,87,31-60 days,Maybe,Maybe,Yes,Maybe,Yes,High,No,No,No,No,No,Exercise,2371,Phone,Complete
+523,16-20,Male,Corporate,2,37,31-60 days,No,No,Maybe,Maybe,No,Low,No,No,Yes,No,Yes,Meditation,1507,In-person,Incomplete
+524,16-20,Male,Student,52,84,15-30 days,Yes,Maybe,Yes,Maybe,Maybe,Low,No,Maybe,No,Yes,No,Medication,2357,In-person,Complete
+525,21-25,Male,Housewife,80,55,1-14 days,Yes,Maybe,Yes,No,Maybe,Medium,No,Maybe,Yes,No,No,Meditation,1494,In-person,Not Taken
+526,21-25,Female,Business,28,8,15-30 days,No,Yes,Yes,No,Yes,Low,No,Maybe,No,Yes,Yes,Medication,1823,In-person,Not Taken
+527,36-40,Male,Corporate,65,4,Go out Every day,Maybe,Yes,Yes,No,Maybe,Low,Maybe,No,Maybe,No,Yes,Meditation,4391,In-person,Complete
+528,21-25,Male,Business,54,97,31-60 days,Yes,Maybe,Yes,No,Yes,Medium,Maybe,Maybe,Yes,No,Yes,Meditation,3037,Phone,Incomplete
+529,21-25,Male,Housewife,34,65,31-60 days,No,No,Maybe,No,Yes,High,Yes,Yes,Maybe,No,No,Meditation,2235,In-person,Incomplete
+530,36-40,Female,Business,59,9,Go out Every day,Maybe,No,Yes,Maybe,Yes,High,No,Maybe,Yes,No,Yes,Exercise,3124,In-person,Complete
+531,31-35,Female,Housewife,53,57,More than 2 months,Maybe,No,Yes,Maybe,No,High,No,Maybe,No,Yes,Yes,Meditation,3561,Phone,Not Taken
+532,40-Above,Male,Others,58,23,Go out Every day,No,No,Maybe,Yes,Maybe,High,Maybe,Yes,No,Yes,No,Medication,2570,In-person,Not Taken
+533,16-20,Female,Business,30,52,More than 2 months,Maybe,Yes,Maybe,Maybe,Yes,High,No,Yes,Maybe,Yes,No,Medication,2986,Phone,Complete
+534,21-25,Female,Corporate,8,44,Go out Every day,Yes,Yes,No,Maybe,No,High,No,Maybe,Maybe,No,No,Meditation,4070,Phone,Incomplete
+535,40-Above,Female,Business,5,18,1-14 days,No,Yes,Yes,No,Maybe,Medium,Maybe,Yes,Maybe,No,Yes,Meditation,1924,In-person,Not Taken
+536,31-35,Female,Others,80,38,More than 2 months,Yes,No,Yes,Yes,Yes,Low,No,No,Maybe,Yes,Yes,Exercise,3325,Online,Complete
+537,40-Above,Male,Housewife,8,77,15-30 days,Maybe,No,Yes,Maybe,No,Medium,Yes,Maybe,Yes,No,No,Medication,1172,In-person,Complete
+538,26-30,Male,Housewife,76,36,15-30 days,Maybe,No,No,Maybe,No,Low,No,No,No,No,Yes,Therapy,2526,Phone,Complete
+539,16-20,Female,Student,27,77,More than 2 months,Maybe,No,No,No,No,Low,Yes,Maybe,No,Yes,No,Therapy,1405,Phone,Complete
+540,26-30,Male,Others,84,19,31-60 days,Yes,No,No,Yes,Yes,Low,Yes,Maybe,No,No,Yes,Exercise,1644,Online,Incomplete
+541,26-30,Female,Student,58,34,31-60 days,Maybe,Maybe,No,Yes,Yes,High,No,Yes,Yes,No,No,Exercise,3330,Online,Incomplete
+542,36-40,Male,Housewife,48,54,1-14 days,Yes,Yes,Maybe,Yes,Maybe,Low,Maybe,Maybe,No,Yes,No,Medication,4666,Online,Complete
+543,36-40,Male,Student,80,41,31-60 days,Yes,Maybe,No,Maybe,No,Medium,Maybe,Maybe,No,No,No,Exercise,1664,Phone,Incomplete
+544,16-20,Male,Business,44,47,More than 2 months,No,Maybe,No,No,Maybe,Medium,No,No,Maybe,No,Yes,Therapy,1979,Phone,Not Taken
+545,40-Above,Male,Others,84,2,More than 2 months,Yes,Yes,Yes,Maybe,Maybe,Low,Maybe,Maybe,Yes,Yes,No,Exercise,4855,In-person,Not Taken
+546,36-40,Male,Housewife,54,95,1-14 days,Maybe,Yes,Maybe,Maybe,Maybe,Medium,Yes,Yes,No,Yes,Yes,Medication,3692,Phone,Not Taken
+547,36-40,Male,Business,54,44,15-30 days,No,No,No,No,No,Medium,No,No,No,Yes,Yes,Medication,4605,Online,Complete
+548,40-Above,Female,Business,75,11,31-60 days,Yes,No,Maybe,No,Yes,Medium,Maybe,Maybe,Yes,No,Yes,Medication,4642,Online,Incomplete
+549,40-Above,Female,Business,56,80,More than 2 months,No,Maybe,Yes,No,Maybe,High,No,Maybe,Maybe,No,No,Exercise,4701,Phone,Incomplete
+550,40-Above,Female,Others,16,85,More than 2 months,Yes,Yes,Maybe,No,Yes,Low,Maybe,Maybe,Yes,Yes,Yes,Therapy,2698,Online,Incomplete
+551,16-20,Female,Others,90,2,More than 2 months,No,No,No,Yes,Yes,Medium,Maybe,No,Yes,No,Yes,Meditation,2073,In-person,Incomplete
+552,16-20,Male,Housewife,2,13,More than 2 months,Yes,Yes,Maybe,Maybe,No,High,Maybe,Yes,Maybe,Yes,No,Meditation,3238,Online,Incomplete
+553,31-35,Male,Housewife,34,89,Go out Every day,Maybe,Yes,Yes,Maybe,Yes,Medium,Maybe,Yes,No,Yes,Yes,Meditation,1371,In-person,Incomplete
+554,26-30,Male,Student,55,2,Go out Every day,No,No,Maybe,Yes,Maybe,High,Maybe,No,Yes,Yes,Yes,Medication,3760,Online,Incomplete
+555,21-25,Female,Student,49,50,More than 2 months,No,Yes,No,Maybe,No,High,Maybe,No,Yes,No,Yes,Therapy,1295,Phone,Incomplete
+556,40-Above,Female,Corporate,71,23,15-30 days,Yes,Maybe,No,No,Yes,Low,No,Yes,Maybe,No,No,Exercise,1768,In-person,Not Taken
+557,36-40,Male,Corporate,8,43,15-30 days,No,Maybe,Maybe,No,No,High,Yes,Yes,No,Yes,Yes,Therapy,2146,In-person,Not Taken
+558,16-20,Male,Housewife,58,52,Go out Every day,Yes,Yes,No,Maybe,Maybe,Medium,No,No,Yes,No,No,Meditation,4822,In-person,Complete
+559,21-25,Male,Student,40,38,1-14 days,No,Yes,Maybe,No,Maybe,Low,Maybe,Maybe,Maybe,Yes,No,Medication,2590,Online,Complete
+560,31-35,Female,Business,45,4,1-14 days,Maybe,Yes,Yes,Yes,Yes,Low,No,Maybe,No,Yes,No,Exercise,4529,Phone,Complete
+561,16-20,Female,Corporate,42,25,31-60 days,No,No,No,Yes,Yes,Medium,No,Maybe,Yes,No,No,Meditation,1099,Phone,Not Taken
+562,31-35,Male,Business,75,2,More than 2 months,Maybe,Maybe,Maybe,Maybe,Yes,High,No,Maybe,No,Yes,Yes,Therapy,3023,Phone,Not Taken
+563,31-35,Male,Housewife,80,19,More than 2 months,Yes,Maybe,Maybe,Yes,Maybe,Medium,Maybe,Yes,Maybe,No,No,Therapy,2694,Phone,Not Taken
+564,26-30,Female,Corporate,6,88,1-14 days,Maybe,No,Maybe,Yes,No,High,No,No,Yes,Yes,Yes,Meditation,4801,Online,Complete
+565,16-20,Female,Business,24,38,1-14 days,Maybe,Maybe,No,Maybe,No,High,Yes,No,Maybe,No,Yes,Therapy,2445,Phone,Incomplete
+566,21-25,Male,Business,85,47,More than 2 months,Yes,Yes,Maybe,Yes,No,Low,Maybe,Maybe,No,Yes,No,Medication,4011,In-person,Not Taken
+567,40-Above,Male,Housewife,67,93,Go out Every day,Yes,No,No,Maybe,No,Medium,Yes,No,Maybe,No,No,Exercise,4331,Phone,Not Taken
+568,36-40,Male,Housewife,75,98,More than 2 months,No,Maybe,No,Maybe,Yes,High,Yes,Yes,Yes,Yes,No,Exercise,2002,Phone,Complete
+569,40-Above,Female,Corporate,86,86,Go out Every day,Maybe,No,Yes,Yes,No,Medium,Maybe,Maybe,Yes,No,Yes,Therapy,1166,Online,Not Taken
+570,26-30,Male,Others,90,98,15-30 days,Yes,No,No,No,Maybe,Low,Yes,Yes,Yes,No,Yes,Medication,1315,Phone,Incomplete
+571,36-40,Male,Housewife,86,85,Go out Every day,Maybe,No,Maybe,Yes,No,High,Yes,No,Yes,No,No,Exercise,4257,In-person,Complete
+572,36-40,Male,Business,70,97,More than 2 months,No,Maybe,Maybe,Yes,No,Medium,Maybe,Yes,No,No,No,Exercise,2773,Phone,Incomplete
+573,21-25,Female,Corporate,50,88,15-30 days,Maybe,Yes,No,No,Maybe,Medium,No,Yes,No,Yes,Yes,Meditation,2959,In-person,Not Taken
+574,40-Above,Male,Student,48,32,More than 2 months,Maybe,Maybe,Yes,Yes,No,Low,Yes,No,No,No,No,Therapy,1150,In-person,Incomplete
+575,16-20,Male,Others,78,68,More than 2 months,No,Maybe,Maybe,No,Maybe,Low,Yes,No,Yes,No,No,Meditation,1050,Online,Not Taken
+576,31-35,Female,Student,77,48,1-14 days,Yes,No,No,No,No,Low,No,No,Yes,No,Yes,Meditation,4003,In-person,Complete
+577,31-35,Male,Others,56,57,Go out Every day,Maybe,Maybe,Yes,Maybe,No,Medium,No,Maybe,Maybe,No,Yes,Medication,2387,Online,Complete
+578,21-25,Male,Corporate,3,16,More than 2 months,No,No,Maybe,Yes,Yes,Low,Maybe,Yes,Yes,Yes,Yes,Exercise,3607,Phone,Complete
+579,31-35,Male,Corporate,50,29,1-14 days,No,Yes,No,Maybe,No,Medium,Yes,Yes,No,No,Yes,Meditation,4175,In-person,Complete
+580,21-25,Female,Housewife,87,12,31-60 days,Maybe,Yes,Maybe,Maybe,Maybe,Medium,Maybe,Yes,Maybe,Yes,Yes,Therapy,1025,In-person,Complete
+581,26-30,Male,Corporate,85,99,31-60 days,Yes,Yes,No,Maybe,Maybe,High,Yes,No,Maybe,Yes,No,Medication,3413,Phone,Incomplete
+582,26-30,Male,Student,24,43,15-30 days,Yes,No,Yes,No,Yes,High,No,Yes,No,No,No,Medication,2488,Phone,Incomplete
+583,40-Above,Female,Others,63,3,1-14 days,No,Yes,Maybe,Maybe,Yes,Medium,Yes,Maybe,No,Yes,Yes,Exercise,2338,Online,Complete
+584,40-Above,Male,Corporate,73,10,Go out Every day,Maybe,Yes,Maybe,Maybe,Maybe,Medium,Yes,No,Maybe,No,Yes,Exercise,1347,Online,Complete
+585,16-20,Female,Housewife,53,4,More than 2 months,Maybe,Yes,Maybe,No,Maybe,Low,Maybe,Yes,Maybe,No,Yes,Therapy,4436,Online,Complete
+586,16-20,Female,Corporate,53,81,More than 2 months,Maybe,Yes,No,No,Yes,Low,No,Maybe,Yes,Yes,No,Medication,4742,In-person,Not Taken
+587,31-35,Female,Housewife,75,77,1-14 days,No,Yes,Yes,Maybe,No,Low,No,Maybe,No,Yes,No,Therapy,1574,In-person,Not Taken
+588,40-Above,Male,Others,36,13,1-14 days,Maybe,Maybe,Yes,Yes,No,High,Maybe,Maybe,Yes,No,Yes,Therapy,1572,In-person,Not Taken
+589,26-30,Female,Others,86,49,More than 2 months,No,Yes,Maybe,No,No,Low,Yes,Yes,Maybe,Yes,No,Medication,4436,Phone,Incomplete
+590,40-Above,Male,Housewife,2,9,Go out Every day,Yes,Yes,Yes,Yes,Yes,Medium,Yes,No,No,No,No,Therapy,2864,Phone,Complete
+591,16-20,Male,Housewife,30,6,More than 2 months,Maybe,No,Maybe,Yes,Yes,High,Maybe,Yes,Yes,No,Yes,Medication,1303,Phone,Incomplete
+592,21-25,Male,Student,4,67,15-30 days,Yes,Yes,No,Maybe,No,Medium,No,No,No,Yes,Yes,Medication,1580,Online,Incomplete
+593,36-40,Female,Housewife,84,36,15-30 days,Yes,Yes,Yes,Yes,Maybe,High,Maybe,Yes,Maybe,No,No,Medication,4984,Online,Complete
+594,36-40,Male,Student,96,87,Go out Every day,No,No,Maybe,No,Yes,High,Maybe,Yes,Maybe,No,Yes,Medication,1648,In-person,Incomplete
+595,16-20,Female,Housewife,82,57,15-30 days,Maybe,No,Yes,Yes,Maybe,Low,Yes,Maybe,Yes,Yes,Yes,Meditation,4008,Phone,Complete
+596,26-30,Female,Student,23,53,More than 2 months,No,No,Yes,No,Yes,Low,Yes,Yes,No,Yes,No,Exercise,1229,Online,Incomplete
+597,26-30,Female,Others,67,68,31-60 days,Yes,Yes,No,Yes,Maybe,Medium,No,Yes,No,No,Yes,Meditation,2452,Online,Incomplete
+598,16-20,Female,Others,82,60,Go out Every day,Yes,Yes,Yes,Yes,Yes,Medium,No,Yes,Yes,Yes,Yes,Exercise,4019,In-person,Complete
+599,21-25,Female,Student,57,14,More than 2 months,Yes,Yes,Yes,No,No,Medium,No,Yes,No,No,Yes,Medication,1785,Phone,Incomplete
+600,16-20,Female,Student,2,30,Go out Every day,Maybe,No,Yes,Yes,No,High,No,Yes,Maybe,Yes,No,Exercise,3332,In-person,Incomplete
+601,31-35,Male,Others,46,38,31-60 days,No,Maybe,Maybe,Maybe,No,Medium,Maybe,Maybe,Yes,Yes,No,Medication,1852,Phone,Not Taken
+602,36-40,Male,Student,70,75,More than 2 months,No,Yes,Yes,Yes,Yes,High,Maybe,Yes,Yes,Yes,No,Therapy,4416,In-person,Incomplete
+603,21-25,Female,Housewife,91,68,Go out Every day,No,Yes,No,Maybe,Maybe,High,No,Yes,Yes,No,Yes,Medication,4095,Phone,Not Taken
+604,40-Above,Male,Housewife,66,60,1-14 days,Maybe,Yes,Yes,Yes,Maybe,Low,No,No,Maybe,No,Yes,Therapy,1239,Phone,Complete
+605,36-40,Male,Business,71,65,31-60 days,Maybe,Maybe,No,Maybe,Maybe,Medium,No,No,No,No,Yes,Medication,3136,Online,Not Taken
+606,31-35,Male,Business,93,20,Go out Every day,Yes,No,No,Maybe,No,High,Yes,Maybe,No,No,No,Meditation,4240,Online,Incomplete
+607,16-20,Female,Student,31,64,1-14 days,No,No,Yes,Yes,Maybe,Low,Yes,Yes,Yes,Yes,Yes,Exercise,2270,Online,Not Taken
+608,16-20,Male,Others,93,24,31-60 days,Maybe,Yes,No,Yes,No,High,No,No,No,No,No,Exercise,2196,Phone,Not Taken
+609,36-40,Male,Corporate,91,77,1-14 days,Yes,No,Maybe,Maybe,No,Medium,No,Maybe,Yes,No,Yes,Exercise,3766,Online,Complete
+610,21-25,Male,Business,89,19,31-60 days,Yes,Maybe,No,No,Yes,Low,Yes,No,Yes,Yes,Yes,Meditation,2834,Online,Complete
+611,21-25,Female,Student,68,15,1-14 days,Maybe,Maybe,Maybe,No,No,High,No,No,No,No,No,Exercise,4867,In-person,Not Taken
+612,26-30,Female,Corporate,81,24,More than 2 months,Yes,Yes,No,Yes,No,Low,Maybe,No,No,Yes,No,Medication,1856,Online,Incomplete
+613,21-25,Female,Corporate,21,62,Go out Every day,No,No,Yes,No,Maybe,Low,Yes,Maybe,Yes,Yes,Yes,Exercise,2498,In-person,Not Taken
+614,21-25,Male,Business,90,61,Go out Every day,Maybe,Maybe,No,Yes,Yes,Medium,Maybe,No,Yes,Yes,No,Exercise,1360,Phone,Complete
+615,40-Above,Male,Corporate,1,15,Go out Every day,No,Yes,Maybe,Yes,Yes,High,No,Maybe,No,Yes,No,Medication,4392,In-person,Not Taken
+616,40-Above,Female,Housewife,15,41,Go out Every day,No,Maybe,No,Yes,Maybe,Low,Maybe,No,No,Yes,No,Meditation,2481,In-person,Complete
+617,40-Above,Female,Corporate,31,24,Go out Every day,Maybe,Yes,Maybe,Yes,No,High,Yes,Yes,Maybe,Yes,Yes,Exercise,1655,Online,Not Taken
+618,36-40,Male,Others,81,81,1-14 days,No,No,No,No,No,Low,Yes,Yes,No,No,Yes,Medication,1487,In-person,Complete
+619,31-35,Female,Others,64,31,31-60 days,Yes,No,Yes,Maybe,Maybe,Low,Maybe,Yes,Maybe,Yes,No,Medication,2261,Online,Not Taken
+620,16-20,Female,Business,46,21,Go out Every day,Yes,Yes,Maybe,Yes,No,Low,Maybe,Yes,No,Yes,No,Exercise,1667,Online,Incomplete
+621,16-20,Female,Student,81,68,1-14 days,Maybe,Yes,Maybe,Maybe,Maybe,Medium,Yes,No,Maybe,Yes,No,Exercise,3232,In-person,Incomplete
+622,21-25,Male,Housewife,78,16,More than 2 months,Maybe,Maybe,No,Maybe,Maybe,High,No,Yes,No,No,Yes,Medication,4511,In-person,Complete
+623,36-40,Male,Housewife,67,16,15-30 days,Yes,Yes,Maybe,Maybe,Yes,Medium,Maybe,Maybe,Yes,No,No,Therapy,3542,Online,Not Taken
+624,21-25,Female,Housewife,72,91,1-14 days,Maybe,Yes,No,Maybe,Yes,Low,Yes,No,Maybe,Yes,No,Therapy,3772,Online,Incomplete
+625,21-25,Male,Corporate,38,88,Go out Every day,Maybe,Yes,No,No,Yes,High,Yes,No,Yes,No,No,Medication,4244,Phone,Not Taken
+626,21-25,Male,Business,19,81,Go out Every day,Maybe,Yes,Maybe,Maybe,Yes,High,No,Maybe,Maybe,No,No,Medication,3011,Phone,Incomplete
+627,31-35,Female,Corporate,54,54,More than 2 months,No,Maybe,No,Yes,Maybe,Medium,Maybe,Maybe,Maybe,Yes,Yes,Exercise,4729,Online,Not Taken
+628,36-40,Female,Student,73,22,31-60 days,No,Yes,No,Yes,No,Low,Yes,Yes,Yes,No,Yes,Medication,3547,Online,Complete
+629,40-Above,Male,Housewife,10,75,Go out Every day,Yes,Yes,Yes,No,Maybe,Low,Yes,Yes,Yes,Yes,Yes,Medication,4042,Phone,Incomplete
+630,40-Above,Female,Housewife,85,44,1-14 days,Maybe,Yes,No,No,No,Low,Maybe,Maybe,No,Yes,No,Medication,4608,Online,Complete
+631,26-30,Female,Business,98,95,1-14 days,No,Yes,No,Yes,Maybe,High,No,Yes,Yes,No,No,Exercise,3645,Online,Complete
+632,31-35,Male,Others,90,32,31-60 days,No,Maybe,No,Yes,Yes,Low,Yes,Yes,Yes,No,No,Meditation,4823,In-person,Complete
+633,36-40,Male,Housewife,68,28,More than 2 months,No,Yes,No,Maybe,No,Medium,Maybe,No,No,No,No,Exercise,2978,Phone,Not Taken
+634,36-40,Female,Corporate,87,1,31-60 days,No,Yes,No,Maybe,Maybe,High,No,Maybe,Maybe,No,No,Therapy,2177,In-person,Incomplete
+635,31-35,Female,Others,89,70,Go out Every day,Maybe,No,Maybe,Yes,Maybe,High,No,No,Maybe,Yes,No,Meditation,2814,Phone,Not Taken
+636,21-25,Female,Business,95,44,Go out Every day,Yes,No,Maybe,Maybe,Yes,High,Maybe,Maybe,No,Yes,Yes,Therapy,3117,Online,Complete
+637,21-25,Male,Business,87,26,More than 2 months,Yes,Maybe,No,Maybe,No,Medium,No,Yes,No,Yes,Yes,Medication,4785,In-person,Not Taken
+638,26-30,Male,Business,50,55,15-30 days,No,Maybe,Maybe,Maybe,Maybe,Low,No,Maybe,No,Yes,Yes,Meditation,2305,Phone,Not Taken
+639,40-Above,Male,Housewife,89,3,More than 2 months,Yes,No,Maybe,Yes,Maybe,High,No,Maybe,Yes,No,No,Therapy,1681,In-person,Not Taken
+640,21-25,Male,Others,27,85,More than 2 months,No,Yes,No,Yes,Yes,High,Maybe,Maybe,No,Yes,No,Medication,2951,Online,Complete
+641,40-Above,Male,Corporate,89,90,Go out Every day,No,Yes,No,No,Maybe,High,Yes,Yes,Maybe,Yes,No,Meditation,1896,Online,Not Taken
+642,26-30,Male,Business,42,1,15-30 days,No,No,No,No,No,Medium,Yes,Yes,Yes,No,Yes,Exercise,2888,Phone,Complete
+643,40-Above,Female,Others,88,98,More than 2 months,Maybe,Maybe,No,Maybe,No,Low,Maybe,Maybe,Maybe,Yes,Yes,Therapy,2260,In-person,Complete
+644,36-40,Female,Others,15,27,More than 2 months,Yes,No,Yes,Yes,Maybe,Low,No,No,Maybe,Yes,No,Therapy,2352,Online,Not Taken
+645,31-35,Male,Corporate,29,47,More than 2 months,Yes,Yes,No,No,Yes,Medium,No,No,Yes,No,Yes,Therapy,2242,In-person,Incomplete
+646,26-30,Female,Business,26,93,More than 2 months,Maybe,Maybe,Maybe,Yes,No,High,No,No,Yes,Yes,No,Therapy,4918,Online,Complete
+647,36-40,Male,Others,1,52,1-14 days,Maybe,Maybe,Maybe,Yes,No,Low,Maybe,Maybe,No,Yes,Yes,Exercise,3849,Phone,Complete
+648,21-25,Female,Student,31,27,More than 2 months,Maybe,Yes,No,Yes,No,Medium,No,Yes,Yes,No,No,Medication,2739,In-person,Not Taken
+649,21-25,Female,Business,97,76,15-30 days,Yes,No,Maybe,No,No,High,No,No,Maybe,Yes,No,Meditation,3499,Online,Incomplete
+650,26-30,Male,Corporate,75,94,Go out Every day,Yes,No,Maybe,No,Maybe,Medium,Maybe,Yes,No,No,No,Medication,3272,Phone,Not Taken
+651,31-35,Male,Others,76,37,31-60 days,Yes,Maybe,No,Maybe,Maybe,High,No,No,Maybe,No,No,Exercise,4097,Phone,Not Taken
+652,40-Above,Female,Business,34,62,Go out Every day,No,Maybe,Maybe,Yes,No,High,Yes,Maybe,Maybe,No,No,Therapy,2963,Online,Not Taken
+653,31-35,Female,Corporate,14,23,31-60 days,Yes,Yes,Yes,No,Maybe,High,No,Maybe,Maybe,No,Yes,Meditation,1527,Online,Complete
+654,31-35,Female,Others,47,10,1-14 days,Yes,No,No,No,No,Medium,No,No,Maybe,No,No,Exercise,2383,Online,Not Taken
+655,16-20,Female,Business,53,35,Go out Every day,Maybe,Maybe,No,No,No,Low,Yes,Yes,No,No,No,Therapy,3525,Online,Complete
+656,36-40,Male,Corporate,78,51,31-60 days,No,Yes,No,Maybe,Maybe,High,Maybe,Maybe,Yes,Yes,No,Therapy,1918,In-person,Incomplete
+657,16-20,Male,Student,59,95,Go out Every day,Maybe,No,Maybe,Maybe,Yes,Medium,No,Maybe,Yes,Yes,Yes,Exercise,2279,Phone,Complete
+658,26-30,Male,Business,87,32,Go out Every day,No,Yes,No,No,No,High,Maybe,No,Maybe,Yes,No,Meditation,4958,In-person,Not Taken
+659,31-35,Male,Business,3,40,31-60 days,Yes,No,No,No,Yes,Low,Yes,No,Yes,No,No,Therapy,4202,In-person,Incomplete
+660,21-25,Male,Corporate,61,98,15-30 days,No,No,No,Yes,Maybe,Medium,Maybe,Maybe,No,Yes,Yes,Medication,3392,Phone,Incomplete
+661,31-35,Female,Housewife,14,76,More than 2 months,Maybe,Yes,Yes,Maybe,No,Low,No,Yes,Maybe,Yes,Yes,Meditation,2961,Phone,Not Taken
+662,26-30,Female,Others,63,7,1-14 days,Yes,Maybe,Maybe,Maybe,No,Low,No,Yes,No,No,Yes,Meditation,2330,Phone,Incomplete
+663,31-35,Male,Student,44,50,1-14 days,Yes,Maybe,No,Yes,No,Medium,Yes,No,Maybe,No,No,Therapy,2747,In-person,Incomplete
+664,36-40,Male,Student,65,50,More than 2 months,No,No,Yes,Maybe,No,High,Maybe,Yes,No,No,No,Therapy,2515,Online,Incomplete
+665,16-20,Female,Business,92,21,1-14 days,No,Maybe,Yes,Maybe,No,Low,Yes,Maybe,Maybe,Yes,Yes,Exercise,2041,In-person,Not Taken
+666,40-Above,Male,Business,30,76,1-14 days,No,No,Yes,Yes,Yes,High,No,Yes,Yes,Yes,Yes,Medication,1424,Online,Incomplete
+667,36-40,Female,Corporate,83,5,More than 2 months,Maybe,Yes,No,Maybe,Yes,High,Maybe,Maybe,Yes,No,Yes,Therapy,4398,In-person,Incomplete
+668,31-35,Male,Corporate,33,52,1-14 days,No,Yes,No,No,No,High,No,No,Yes,No,No,Medication,2700,Online,Incomplete
+669,16-20,Male,Others,29,39,15-30 days,No,Maybe,Yes,No,Yes,High,Yes,Yes,Maybe,No,No,Exercise,3663,Online,Incomplete
+670,26-30,Male,Student,19,20,31-60 days,No,Yes,No,Maybe,Yes,Medium,Maybe,No,Maybe,No,Yes,Medication,2697,In-person,Not Taken
+671,31-35,Male,Housewife,26,9,More than 2 months,No,No,Yes,Maybe,Maybe,Low,Maybe,Maybe,Maybe,Yes,Yes,Therapy,3837,In-person,Incomplete
+672,26-30,Female,Others,31,72,1-14 days,No,Maybe,Maybe,No,Maybe,Medium,Maybe,Maybe,Maybe,No,No,Medication,2136,Phone,Incomplete
+673,26-30,Male,Housewife,42,88,Go out Every day,Yes,Yes,Maybe,Maybe,Yes,Low,Maybe,No,No,No,No,Meditation,2824,Online,Complete
+674,40-Above,Male,Corporate,7,37,31-60 days,Maybe,Maybe,No,No,No,Medium,No,No,Yes,No,Yes,Meditation,1439,Online,Incomplete
+675,31-35,Female,Business,23,86,31-60 days,Yes,No,Maybe,Maybe,No,Medium,Yes,Maybe,No,No,No,Medication,1705,In-person,Complete
+676,36-40,Male,Housewife,10,48,31-60 days,No,Yes,Yes,Maybe,No,High,Maybe,Maybe,Yes,No,Yes,Exercise,3264,Phone,Complete
+677,21-25,Female,Corporate,91,8,More than 2 months,Maybe,Yes,Maybe,Maybe,No,Medium,No,Maybe,Yes,Yes,Yes,Meditation,2094,Online,Not Taken
+678,36-40,Female,Student,26,53,15-30 days,Maybe,No,Yes,Maybe,Maybe,Medium,Yes,No,Yes,No,Yes,Therapy,1061,Phone,Incomplete
+679,16-20,Female,Corporate,73,50,Go out Every day,No,Yes,Maybe,Yes,No,Medium,Maybe,Yes,Yes,Yes,Yes,Meditation,4129,Online,Complete
+680,40-Above,Male,Corporate,57,57,Go out Every day,No,Yes,No,Maybe,Maybe,High,Maybe,Maybe,Yes,No,Yes,Meditation,2205,Phone,Complete
+681,36-40,Male,Others,44,18,1-14 days,Maybe,Yes,Maybe,No,Yes,Low,No,No,Maybe,No,No,Meditation,2396,Phone,Incomplete
+682,36-40,Male,Business,2,27,15-30 days,Yes,No,Yes,Yes,Maybe,High,Yes,Yes,Maybe,Yes,Yes,Meditation,3758,Online,Complete
+683,36-40,Male,Student,13,36,15-30 days,Yes,Maybe,No,Maybe,Yes,Low,Yes,Maybe,Maybe,Yes,No,Medication,2153,In-person,Not Taken
+684,36-40,Female,Housewife,50,24,More than 2 months,Yes,No,No,No,Maybe,Medium,Maybe,Maybe,Yes,Yes,No,Therapy,1467,In-person,Not Taken
+685,26-30,Female,Others,13,52,31-60 days,No,Maybe,Yes,Maybe,No,Medium,Maybe,No,Yes,No,Yes,Therapy,4320,In-person,Incomplete
+686,16-20,Male,Corporate,4,95,1-14 days,No,Maybe,Yes,Maybe,Maybe,High,Yes,Maybe,No,Yes,No,Exercise,2643,In-person,Not Taken
+687,40-Above,Male,Student,68,11,More than 2 months,Yes,No,Yes,Maybe,Maybe,High,Yes,No,Yes,Yes,Yes,Medication,2496,Phone,Incomplete
+688,31-35,Male,Others,30,77,Go out Every day,Maybe,No,Yes,Yes,Yes,Low,Maybe,Yes,Yes,Yes,No,Exercise,3379,Phone,Not Taken
+689,21-25,Male,Student,77,28,31-60 days,No,Yes,Maybe,No,No,Low,No,No,Yes,Yes,No,Therapy,1103,Phone,Not Taken
+690,31-35,Female,Business,5,34,1-14 days,Yes,Maybe,Maybe,Yes,Yes,High,No,No,No,No,No,Therapy,3779,Online,Incomplete
+691,26-30,Male,Others,75,55,1-14 days,Yes,No,Maybe,No,Yes,Medium,No,Yes,No,Yes,Yes,Therapy,1629,In-person,Incomplete
+692,40-Above,Male,Business,67,50,1-14 days,Maybe,Maybe,No,Yes,Maybe,Medium,Yes,Yes,No,No,Yes,Exercise,4803,Phone,Complete
+693,31-35,Female,Housewife,35,91,15-30 days,Maybe,No,Yes,Yes,Maybe,Low,Yes,Yes,Yes,Yes,No,Therapy,3203,Phone,Complete
+694,40-Above,Female,Housewife,72,36,Go out Every day,No,Yes,Maybe,Yes,Yes,Low,No,Yes,Yes,No,No,Exercise,4561,Online,Incomplete
+695,16-20,Male,Others,80,31,15-30 days,Maybe,No,Maybe,No,No,Low,Maybe,Yes,No,No,No,Meditation,2966,In-person,Not Taken
+696,21-25,Female,Others,58,8,Go out Every day,No,No,Maybe,No,Maybe,Low,No,Yes,No,No,Yes,Exercise,3073,Online,Incomplete
+697,40-Above,Male,Others,38,5,Go out Every day,No,Maybe,Yes,No,Maybe,High,Maybe,Yes,Maybe,Yes,Yes,Exercise,1690,In-person,Complete
+698,36-40,Female,Business,28,64,1-14 days,Yes,Maybe,Maybe,Yes,No,Low,No,Maybe,Maybe,Yes,Yes,Exercise,3652,Online,Incomplete
+699,36-40,Male,Others,39,73,31-60 days,No,No,Maybe,Yes,Yes,High,Yes,Yes,Maybe,No,Yes,Therapy,1658,Phone,Complete
+700,26-30,Female,Others,95,62,Go out Every day,Maybe,Maybe,Yes,Yes,Maybe,High,No,No,Yes,Yes,No,Therapy,3622,Phone,Not Taken
+701,16-20,Female,Others,1,62,1-14 days,Maybe,Yes,No,No,No,Medium,No,No,Maybe,No,No,Exercise,3187,Phone,Complete
+702,36-40,Male,Business,93,56,15-30 days,No,No,Maybe,No,No,Medium,Maybe,Yes,Yes,Yes,No,Meditation,2817,In-person,Not Taken
+703,40-Above,Male,Housewife,84,88,More than 2 months,Maybe,No,No,Maybe,Maybe,Medium,No,Maybe,Maybe,No,No,Meditation,4751,In-person,Incomplete
+704,36-40,Female,Others,68,97,1-14 days,Yes,No,No,Yes,No,Medium,Maybe,No,Yes,No,Yes,Meditation,3530,Phone,Incomplete
+705,36-40,Female,Business,9,8,More than 2 months,Yes,Yes,Maybe,No,Maybe,Medium,Yes,No,Yes,Yes,Yes,Medication,4232,In-person,Incomplete
+706,36-40,Female,Corporate,4,40,15-30 days,No,No,Yes,No,Yes,Medium,Yes,Yes,Yes,Yes,No,Meditation,2680,In-person,Not Taken
+707,36-40,Male,Others,38,36,15-30 days,Yes,Yes,Maybe,Yes,No,High,Maybe,Maybe,Yes,Yes,No,Therapy,3658,Phone,Not Taken
+708,16-20,Male,Business,60,41,Go out Every day,Maybe,Yes,Yes,No,Maybe,Low,Maybe,No,Maybe,Yes,No,Therapy,2640,In-person,Complete
+709,36-40,Male,Housewife,10,9,Go out Every day,Maybe,Yes,Maybe,No,No,High,Yes,No,Maybe,No,Yes,Therapy,2142,Phone,Incomplete
+710,40-Above,Female,Corporate,75,16,More than 2 months,Yes,Maybe,Yes,Maybe,Maybe,Low,No,Yes,Yes,Yes,Yes,Therapy,4351,Phone,Incomplete
+711,26-30,Male,Others,47,54,Go out Every day,Yes,Maybe,Maybe,Yes,Maybe,Low,No,Yes,Yes,Yes,Yes,Exercise,3570,Phone,Not Taken
+712,26-30,Male,Business,52,43,More than 2 months,No,No,Maybe,Maybe,Maybe,High,No,Maybe,Yes,Yes,Yes,Exercise,2542,Online,Incomplete
+713,40-Above,Female,Housewife,52,16,1-14 days,Maybe,Yes,No,Yes,No,Medium,Maybe,Yes,Maybe,Yes,Yes,Exercise,3030,Online,Complete
+714,36-40,Female,Others,84,20,Go out Every day,No,Maybe,Maybe,No,No,Medium,No,No,Yes,Yes,No,Meditation,4097,In-person,Complete
+715,31-35,Male,Others,31,53,31-60 days,Maybe,Yes,Yes,Maybe,No,High,Yes,Yes,No,Yes,No,Meditation,1344,Phone,Incomplete
+716,21-25,Female,Student,98,69,31-60 days,Yes,Maybe,Maybe,No,Maybe,Medium,Yes,Maybe,Yes,Yes,Yes,Medication,4946,In-person,Not Taken
+717,31-35,Male,Business,1,44,31-60 days,No,No,No,Maybe,Yes,Low,Yes,Maybe,No,No,No,Meditation,4159,In-person,Complete
+718,26-30,Male,Corporate,5,40,More than 2 months,No,Yes,Yes,Maybe,Yes,Medium,Yes,Maybe,Maybe,Yes,Yes,Exercise,1208,Online,Incomplete
+719,21-25,Female,Student,15,24,31-60 days,Yes,Maybe,No,Yes,Maybe,High,Yes,Maybe,No,No,No,Medication,4685,Online,Not Taken
+720,21-25,Male,Student,1,9,Go out Every day,No,Yes,Maybe,Maybe,Yes,Low,Maybe,No,No,No,No,Exercise,3131,Online,Not Taken
+721,40-Above,Female,Business,26,38,31-60 days,Maybe,No,Maybe,No,Maybe,Low,Maybe,No,Maybe,Yes,No,Exercise,3437,In-person,Not Taken
+722,21-25,Male,Housewife,40,80,31-60 days,Yes,No,Maybe,Yes,Maybe,Low,No,Yes,Yes,No,Yes,Meditation,4445,Online,Not Taken
+723,31-35,Female,Others,77,1,31-60 days,Maybe,No,No,Maybe,Maybe,High,Yes,Maybe,Maybe,Yes,No,Exercise,1373,Online,Incomplete
+724,26-30,Female,Student,78,64,Go out Every day,Maybe,No,Yes,Maybe,Maybe,Low,No,Maybe,Yes,No,No,Exercise,1597,Online,Not Taken
+725,36-40,Male,Housewife,80,45,1-14 days,No,No,No,Yes,Maybe,High,No,Maybe,Yes,Yes,No,Therapy,4874,In-person,Not Taken
+726,36-40,Female,Corporate,52,57,31-60 days,Yes,Yes,No,Yes,Yes,Low,Maybe,Maybe,Maybe,No,Yes,Therapy,4006,Online,Not Taken
+727,26-30,Male,Others,26,44,Go out Every day,Maybe,Yes,No,Yes,Yes,High,No,Yes,Maybe,Yes,Yes,Therapy,2265,Online,Complete
+728,40-Above,Male,Others,70,1,31-60 days,Yes,Maybe,No,Yes,Maybe,Medium,Yes,Maybe,No,Yes,Yes,Medication,1193,Online,Not Taken
+729,31-35,Female,Corporate,38,46,Go out Every day,No,No,No,Yes,Yes,High,No,Maybe,No,Yes,No,Exercise,4688,Online,Incomplete
+730,16-20,Female,Housewife,43,88,Go out Every day,Yes,No,Maybe,Maybe,Yes,Low,No,No,Maybe,No,No,Meditation,1659,In-person,Not Taken
+731,40-Above,Female,Business,69,61,Go out Every day,Maybe,Yes,Yes,No,Maybe,Medium,Yes,No,No,Yes,No,Exercise,1151,In-person,Not Taken
+732,40-Above,Female,Corporate,42,1,1-14 days,No,Yes,Maybe,No,No,High,No,No,Maybe,Yes,Yes,Medication,3537,In-person,Incomplete
+733,40-Above,Male,Student,18,81,More than 2 months,Yes,Maybe,Yes,No,Maybe,Low,Maybe,No,Maybe,Yes,No,Medication,1399,In-person,Not Taken
+734,16-20,Female,Housewife,10,3,1-14 days,No,No,Maybe,Yes,No,Medium,Yes,Yes,No,No,No,Medication,2084,In-person,Not Taken
+735,40-Above,Female,Others,89,44,More than 2 months,No,Maybe,Yes,Yes,Maybe,High,Yes,Maybe,No,No,Yes,Medication,3343,Online,Complete
+736,36-40,Female,Student,15,25,31-60 days,No,Yes,Maybe,Yes,Yes,Medium,Yes,Yes,No,No,No,Medication,3020,In-person,Incomplete
+737,26-30,Female,Others,55,87,15-30 days,Yes,Yes,Yes,Maybe,Maybe,High,Yes,No,Yes,No,No,Meditation,2024,Online,Complete
+738,16-20,Male,Others,28,26,More than 2 months,Maybe,No,Maybe,Yes,Maybe,Medium,Yes,Maybe,Yes,No,Yes,Therapy,1737,Phone,Incomplete
+739,26-30,Male,Business,63,83,1-14 days,No,No,Yes,Maybe,Maybe,Medium,Maybe,Maybe,No,No,No,Therapy,4499,In-person,Complete
+740,16-20,Female,Student,66,99,15-30 days,Maybe,No,Yes,Maybe,Maybe,Low,Yes,Yes,No,No,No,Meditation,1121,Phone,Complete
+741,16-20,Male,Others,29,27,Go out Every day,No,Maybe,Maybe,No,Maybe,High,No,Yes,Yes,No,Yes,Exercise,2624,In-person,Not Taken
+742,31-35,Female,Housewife,18,78,31-60 days,Maybe,Maybe,No,Yes,Yes,Medium,Yes,Maybe,Yes,No,No,Medication,4905,Online,Incomplete
+743,26-30,Female,Corporate,45,24,31-60 days,Maybe,Yes,Maybe,Maybe,No,Low,Maybe,Maybe,Yes,Yes,Yes,Meditation,2782,Phone,Not Taken
+744,31-35,Female,Business,12,82,1-14 days,No,Maybe,Maybe,Maybe,No,High,Yes,No,Yes,Yes,No,Meditation,1608,Online,Complete
+745,31-35,Female,Business,57,38,Go out Every day,Maybe,Maybe,Yes,Maybe,No,Medium,Yes,No,Maybe,Yes,Yes,Meditation,2376,Phone,Not Taken
+746,36-40,Female,Others,14,23,1-14 days,No,Maybe,Maybe,No,No,Low,No,No,Yes,Yes,No,Meditation,4413,Online,Not Taken
+747,26-30,Male,Student,65,78,More than 2 months,Maybe,Yes,Maybe,Maybe,No,Medium,Maybe,No,Maybe,Yes,No,Therapy,3903,Online,Complete
+748,40-Above,Male,Business,59,5,31-60 days,Yes,No,Yes,Maybe,Yes,Low,Yes,Yes,Yes,No,No,Therapy,4700,Online,Incomplete
+749,40-Above,Male,Corporate,81,98,Go out Every day,Maybe,Yes,Yes,No,Maybe,Low,Yes,Maybe,Maybe,No,Yes,Exercise,1113,Phone,Complete
+750,16-20,Male,Student,92,69,15-30 days,Yes,Yes,Maybe,Yes,Yes,Medium,Yes,Yes,Maybe,No,No,Medication,4083,Online,Complete
+751,26-30,Male,Housewife,92,74,More than 2 months,Maybe,Maybe,Maybe,No,Maybe,Medium,No,No,Maybe,Yes,Yes,Exercise,2205,Phone,Not Taken
+752,40-Above,Male,Corporate,99,68,More than 2 months,Maybe,No,No,Maybe,Yes,Medium,No,No,Maybe,Yes,Yes,Meditation,2671,In-person,Complete
+753,31-35,Female,Student,31,64,31-60 days,Maybe,Maybe,No,No,Maybe,High,Maybe,Maybe,Maybe,Yes,Yes,Therapy,2836,In-person,Incomplete
+754,26-30,Female,Corporate,42,34,1-14 days,Maybe,No,No,Yes,Maybe,High,Yes,Maybe,No,No,Yes,Meditation,2823,Phone,Complete
+755,16-20,Female,Business,34,58,15-30 days,Yes,Yes,Maybe,No,Maybe,Medium,Yes,Maybe,Maybe,No,No,Medication,1525,Phone,Not Taken
+756,26-30,Male,Student,28,69,More than 2 months,Yes,Maybe,Yes,Maybe,Yes,Medium,Yes,No,Yes,Yes,Yes,Medication,2141,Phone,Complete
+757,31-35,Female,Others,99,28,1-14 days,No,Yes,Yes,Maybe,Yes,Medium,No,Yes,No,Yes,Yes,Medication,1822,Phone,Not Taken
+758,31-35,Male,Housewife,57,15,Go out Every day,No,No,No,Yes,Yes,Low,Yes,No,Maybe,Yes,No,Exercise,1592,Online,Complete
+759,16-20,Female,Corporate,49,6,31-60 days,Maybe,Maybe,Maybe,No,Yes,Medium,No,Maybe,Yes,Yes,Yes,Therapy,2673,In-person,Not Taken
+760,16-20,Male,Corporate,32,57,15-30 days,Maybe,No,Maybe,Yes,Maybe,Low,No,Maybe,No,No,No,Meditation,2073,Phone,Not Taken
+761,31-35,Female,Business,27,36,Go out Every day,Yes,Maybe,Maybe,Maybe,Maybe,High,Yes,Maybe,Maybe,Yes,Yes,Meditation,1070,Online,Incomplete
+762,16-20,Female,Student,34,84,1-14 days,No,Yes,Yes,Maybe,Yes,Low,No,No,No,No,No,Meditation,1131,Phone,Not Taken
+763,16-20,Male,Others,43,72,More than 2 months,Yes,Yes,No,No,Yes,High,Maybe,Maybe,No,Yes,Yes,Meditation,1681,Phone,Not Taken
+764,26-30,Male,Others,28,53,More than 2 months,No,Yes,No,Yes,No,Low,Yes,No,Yes,Yes,No,Medication,2778,Phone,Incomplete
+765,36-40,Male,Student,18,30,More than 2 months,Yes,Yes,No,Maybe,No,Medium,Maybe,Maybe,Yes,No,Yes,Exercise,3036,Online,Incomplete
+766,31-35,Female,Student,70,99,Go out Every day,Yes,No,Yes,No,Yes,Low,Yes,No,No,No,No,Meditation,2997,Online,Not Taken
+767,21-25,Female,Others,38,74,Go out Every day,No,Maybe,Maybe,No,No,Medium,Maybe,Maybe,Yes,No,No,Therapy,2349,Phone,Not Taken
+768,31-35,Male,Housewife,8,19,15-30 days,Yes,Yes,No,No,No,Low,Yes,Yes,No,No,Yes,Exercise,4194,Phone,Incomplete
+769,40-Above,Male,Others,71,29,15-30 days,Yes,No,Yes,Maybe,Yes,Low,No,Yes,No,No,Yes,Exercise,4864,In-person,Incomplete
+770,21-25,Female,Housewife,79,35,31-60 days,No,Maybe,Yes,No,Maybe,Low,No,No,Maybe,No,Yes,Exercise,2809,Phone,Not Taken
+771,40-Above,Female,Housewife,68,58,31-60 days,Maybe,No,No,Yes,No,Low,Yes,Maybe,Yes,No,No,Therapy,3291,In-person,Not Taken
+772,36-40,Male,Business,91,32,31-60 days,Yes,Yes,No,No,Yes,Medium,Maybe,No,No,Yes,No,Meditation,1343,Online,Incomplete
+773,16-20,Female,Others,20,68,31-60 days,No,Maybe,Maybe,No,Yes,Medium,Yes,Maybe,No,Yes,No,Therapy,3315,Online,Complete
+774,26-30,Female,Corporate,81,10,Go out Every day,Maybe,Yes,No,Maybe,Maybe,High,Maybe,Maybe,No,No,Yes,Medication,3170,Online,Incomplete
+775,26-30,Male,Housewife,67,29,More than 2 months,No,No,Maybe,Maybe,No,High,Yes,No,No,No,Yes,Therapy,3981,In-person,Complete
+776,21-25,Female,Business,66,96,1-14 days,No,Maybe,Maybe,Yes,Maybe,Medium,Maybe,Maybe,Yes,No,No,Therapy,3711,Phone,Not Taken
+777,21-25,Male,Others,36,56,1-14 days,No,Yes,Maybe,Maybe,No,Medium,Maybe,Yes,Maybe,No,Yes,Medication,4627,Online,Not Taken
+778,26-30,Female,Others,91,14,31-60 days,No,Yes,No,Maybe,Yes,Low,Yes,Maybe,No,No,No,Medication,3954,In-person,Incomplete
+779,31-35,Female,Student,89,24,31-60 days,Maybe,Maybe,Maybe,Maybe,No,Low,Yes,Yes,No,No,Yes,Medication,1933,Online,Complete
+780,16-20,Male,Corporate,44,56,15-30 days,Yes,Maybe,No,Yes,Yes,Medium,Maybe,Yes,Yes,No,Yes,Exercise,3262,In-person,Complete
+781,31-35,Male,Business,84,87,15-30 days,Yes,Maybe,No,Yes,Yes,High,No,Maybe,Maybe,No,Yes,Meditation,1614,In-person,Complete
+782,26-30,Male,Student,15,9,Go out Every day,No,Yes,Yes,Maybe,Yes,Low,Yes,Yes,No,No,Yes,Medication,3934,Online,Incomplete
+783,21-25,Male,Corporate,25,11,1-14 days,No,Maybe,Yes,Maybe,No,Low,Maybe,Yes,Yes,No,Yes,Therapy,4260,Online,Incomplete
+784,26-30,Female,Others,59,42,1-14 days,Maybe,Yes,Yes,No,No,Low,Maybe,Maybe,Yes,No,No,Exercise,3707,Phone,Not Taken
+785,16-20,Male,Others,35,45,15-30 days,Yes,No,Maybe,Yes,No,High,Yes,Maybe,Maybe,Yes,No,Therapy,1205,Phone,Incomplete
+786,16-20,Female,Student,29,78,15-30 days,Maybe,Maybe,Maybe,Yes,No,Medium,Maybe,Yes,Yes,No,Yes,Medication,4856,In-person,Complete
+787,16-20,Male,Housewife,80,19,31-60 days,No,No,Maybe,Yes,Maybe,Medium,No,No,Maybe,No,No,Meditation,2617,In-person,Incomplete
+788,26-30,Female,Housewife,78,89,Go out Every day,No,No,No,Yes,Yes,Low,Maybe,Yes,Maybe,Yes,No,Exercise,2000,In-person,Not Taken
+789,36-40,Female,Business,82,60,31-60 days,No,Yes,No,Maybe,Yes,Medium,No,Yes,Maybe,No,Yes,Meditation,1349,Phone,Complete
+790,40-Above,Male,Business,80,70,31-60 days,No,Yes,Yes,No,Maybe,Low,Maybe,Maybe,Maybe,No,Yes,Exercise,3669,In-person,Incomplete
+791,26-30,Female,Housewife,77,30,Go out Every day,No,Yes,No,Yes,No,Low,Maybe,No,Yes,Yes,No,Exercise,3177,Online,Complete
+792,36-40,Male,Housewife,63,43,Go out Every day,Maybe,Maybe,Yes,Maybe,No,High,Maybe,No,Yes,Yes,No,Exercise,4489,In-person,Incomplete
+793,16-20,Female,Student,11,34,Go out Every day,No,No,Maybe,Yes,Yes,High,Yes,Yes,Maybe,No,Yes,Therapy,4640,Phone,Not Taken
+794,31-35,Female,Others,42,83,31-60 days,Maybe,Yes,Maybe,No,No,High,Maybe,No,No,Yes,No,Meditation,1823,Phone,Incomplete
+795,31-35,Male,Corporate,35,78,1-14 days,Yes,Maybe,No,No,Yes,High,No,Yes,No,Yes,No,Meditation,2475,Phone,Complete
+796,26-30,Male,Corporate,68,59,15-30 days,Yes,No,Maybe,Maybe,Yes,High,No,Maybe,Yes,No,No,Therapy,1554,Online,Not Taken
+797,26-30,Male,Business,44,2,15-30 days,Yes,Maybe,Yes,Maybe,Maybe,High,Maybe,Maybe,Yes,Yes,No,Exercise,1793,Online,Complete
+798,36-40,Female,Corporate,81,73,1-14 days,Yes,Maybe,No,Maybe,Yes,High,Maybe,Maybe,Maybe,No,Yes,Medication,2663,Phone,Incomplete
+799,40-Above,Female,Business,49,80,1-14 days,Yes,Yes,No,Maybe,Maybe,Low,No,Yes,No,Yes,No,Exercise,3236,In-person,Incomplete
+800,16-20,Male,Corporate,79,89,1-14 days,Maybe,Maybe,No,Yes,Maybe,Medium,Maybe,Maybe,No,No,No,Medication,1064,Phone,Complete
+801,16-20,Male,Student,47,98,Go out Every day,Maybe,Yes,No,Maybe,No,Medium,No,Maybe,Yes,Yes,Yes,Exercise,4577,Phone,Incomplete
+802,31-35,Male,Business,84,2,Go out Every day,Yes,No,No,Maybe,No,Low,No,Maybe,Maybe,No,No,Therapy,4086,Phone,Not Taken
+803,40-Above,Male,Student,82,67,1-14 days,Maybe,Maybe,Maybe,Maybe,Maybe,Low,Maybe,No,Yes,Yes,No,Medication,2186,Online,Incomplete
+804,16-20,Male,Business,92,83,31-60 days,No,No,Yes,No,Maybe,Low,Maybe,No,No,No,No,Medication,4379,Phone,Complete
+805,21-25,Male,Corporate,90,22,15-30 days,No,Maybe,Maybe,Maybe,No,High,Yes,No,No,No,No,Therapy,3406,In-person,Not Taken
+806,16-20,Male,Housewife,29,40,15-30 days,Maybe,No,No,No,No,Medium,Maybe,Maybe,No,Yes,No,Exercise,1140,Phone,Not Taken
+807,21-25,Female,Corporate,26,8,More than 2 months,No,Maybe,No,No,Maybe,High,Maybe,Maybe,No,Yes,Yes,Therapy,4383,Phone,Complete
+808,36-40,Female,Student,4,52,1-14 days,Maybe,Yes,Yes,Yes,Yes,High,Yes,Yes,Maybe,No,No,Medication,2925,Online,Complete
+809,21-25,Female,Housewife,14,68,More than 2 months,Maybe,Maybe,No,No,No,Medium,Yes,No,Yes,Yes,No,Therapy,4415,Phone,Incomplete
+810,26-30,Male,Corporate,79,15,Go out Every day,No,No,Maybe,No,Maybe,Low,No,No,Maybe,Yes,Yes,Exercise,4806,Online,Not Taken
+811,36-40,Male,Business,35,6,More than 2 months,No,Yes,Maybe,No,Yes,Medium,Maybe,No,Yes,No,Yes,Meditation,3353,In-person,Incomplete
+812,26-30,Female,Others,6,13,More than 2 months,Yes,Maybe,Maybe,No,No,Low,Maybe,Yes,Maybe,No,No,Exercise,3022,Phone,Not Taken
+813,16-20,Male,Corporate,68,26,More than 2 months,Maybe,Yes,Maybe,Maybe,Yes,Medium,Yes,Yes,Maybe,No,Yes,Meditation,4944,Online,Not Taken
+814,36-40,Male,Business,12,25,More than 2 months,No,No,No,No,Yes,Medium,Maybe,No,Yes,No,No,Therapy,1778,Phone,Not Taken
+815,40-Above,Female,Business,68,84,Go out Every day,Yes,Yes,Maybe,Maybe,Maybe,High,Maybe,No,Maybe,No,Yes,Medication,3736,In-person,Complete
+816,31-35,Male,Business,7,87,1-14 days,Yes,Maybe,Maybe,No,Maybe,Medium,Yes,Maybe,Maybe,Yes,No,Meditation,1393,Phone,Complete
+817,31-35,Male,Others,59,37,More than 2 months,Maybe,No,Maybe,Yes,Yes,Medium,Maybe,Yes,No,No,No,Therapy,3923,Online,Complete
+818,31-35,Male,Student,49,85,1-14 days,No,Yes,Maybe,Maybe,Maybe,High,Maybe,No,Maybe,Yes,Yes,Exercise,3126,Online,Not Taken
+819,31-35,Female,Corporate,58,26,Go out Every day,No,Yes,Yes,No,Yes,Medium,No,Yes,No,Yes,No,Therapy,2706,Phone,Complete
+820,21-25,Female,Student,21,1,1-14 days,Maybe,No,No,Yes,Yes,Medium,Yes,No,Yes,No,Yes,Medication,4262,In-person,Not Taken
+821,36-40,Male,Business,64,12,More than 2 months,Yes,Maybe,No,Yes,No,Low,Maybe,No,Maybe,Yes,Yes,Medication,2948,Phone,Complete
+822,36-40,Male,Student,87,14,More than 2 months,Yes,No,No,Yes,Maybe,Medium,No,No,No,Yes,No,Exercise,4221,In-person,Complete
+823,26-30,Male,Business,20,66,15-30 days,Yes,Yes,No,No,Yes,Low,No,Maybe,No,Yes,No,Medication,1950,Phone,Complete
+824,26-30,Male,Student,38,71,1-14 days,Maybe,No,Yes,No,Yes,Medium,Yes,Yes,Maybe,Yes,No,Therapy,4586,Phone,Complete
+825,26-30,Male,Housewife,14,22,1-14 days,Maybe,Yes,Yes,No,Yes,Low,Maybe,Yes,Yes,No,Yes,Therapy,4522,In-person,Not Taken
+826,26-30,Female,Corporate,25,99,More than 2 months,Yes,Maybe,No,Yes,Maybe,High,Yes,Maybe,No,No,Yes,Exercise,4804,Online,Incomplete
+827,36-40,Female,Corporate,12,20,More than 2 months,Maybe,Yes,No,Maybe,Yes,High,Yes,Maybe,Maybe,No,No,Therapy,3584,Phone,Complete
+828,16-20,Male,Housewife,65,72,31-60 days,Maybe,Yes,Yes,Maybe,Maybe,Low,Maybe,Maybe,Maybe,No,No,Meditation,3915,Phone,Complete
+829,36-40,Male,Others,14,57,15-30 days,No,No,No,Yes,No,High,No,No,No,Yes,No,Medication,3786,In-person,Incomplete
+830,21-25,Female,Corporate,9,4,15-30 days,No,Yes,Maybe,Maybe,Maybe,High,Maybe,Maybe,Yes,No,Yes,Exercise,1357,Online,Not Taken
+831,26-30,Male,Corporate,5,78,15-30 days,No,No,Yes,No,Yes,Medium,No,Yes,Maybe,Yes,Yes,Exercise,2646,In-person,Not Taken
+832,26-30,Female,Corporate,69,30,1-14 days,No,Yes,Yes,Yes,Yes,Medium,Maybe,No,No,Yes,No,Medication,1648,Online,Incomplete
+833,16-20,Female,Housewife,91,27,1-14 days,No,Maybe,No,Yes,No,High,Yes,Maybe,Maybe,Yes,Yes,Medication,2920,Phone,Complete
+834,40-Above,Female,Corporate,23,62,31-60 days,Maybe,Maybe,Maybe,Yes,Yes,Low,Maybe,No,Yes,No,Yes,Meditation,1874,Phone,Incomplete
+835,31-35,Female,Business,32,40,More than 2 months,No,Yes,Maybe,Maybe,Yes,High,Maybe,Maybe,No,Yes,No,Medication,3909,Phone,Incomplete
+836,36-40,Male,Business,82,89,Go out Every day,No,No,No,Yes,Maybe,Low,Yes,No,Yes,Yes,Yes,Medication,2536,Online,Not Taken
+837,26-30,Female,Student,12,79,1-14 days,Yes,No,Yes,No,No,Low,Yes,Yes,Yes,Yes,No,Therapy,1550,Online,Complete
+838,40-Above,Male,Business,70,16,More than 2 months,Maybe,Yes,No,No,Yes,Medium,No,Yes,Maybe,No,Yes,Medication,3103,Phone,Not Taken
+839,26-30,Male,Student,59,56,Go out Every day,No,Yes,Maybe,No,Yes,Medium,Yes,Maybe,Yes,Yes,Yes,Meditation,2335,Online,Not Taken
+840,40-Above,Female,Others,51,84,1-14 days,Maybe,Maybe,No,No,Yes,Medium,No,No,Maybe,No,Yes,Meditation,2110,Phone,Not Taken
+841,21-25,Female,Housewife,39,57,15-30 days,Maybe,Maybe,Maybe,Yes,Maybe,High,Maybe,No,No,Yes,No,Therapy,1724,Phone,Not Taken
+842,36-40,Female,Corporate,82,4,15-30 days,Maybe,Yes,No,Maybe,No,High,No,Yes,No,No,No,Meditation,4750,Phone,Not Taken
+843,40-Above,Male,Business,43,81,31-60 days,No,No,Yes,No,Maybe,Low,Yes,No,Maybe,Yes,Yes,Medication,3606,In-person,Incomplete
+844,16-20,Female,Others,27,21,15-30 days,No,Maybe,Maybe,Yes,Yes,High,Yes,Maybe,Maybe,No,Yes,Therapy,4944,In-person,Incomplete
+845,26-30,Male,Corporate,81,54,1-14 days,Maybe,No,Yes,Maybe,Yes,Medium,Yes,No,No,Yes,No,Therapy,3550,In-person,Not Taken
+846,16-20,Male,Housewife,8,43,More than 2 months,Yes,Maybe,No,Yes,Maybe,Medium,Yes,Maybe,Yes,Yes,Yes,Meditation,2797,Online,Not Taken
+847,26-30,Male,Others,55,45,More than 2 months,Yes,Yes,Maybe,No,Yes,Medium,No,Maybe,Maybe,Yes,No,Medication,2614,Online,Complete
+848,21-25,Male,Others,68,65,More than 2 months,Maybe,No,Maybe,Yes,No,Low,Yes,No,Yes,No,No,Meditation,3811,In-person,Not Taken
+849,40-Above,Female,Student,46,69,More than 2 months,No,Maybe,No,Yes,No,Medium,No,No,No,No,No,Therapy,1888,In-person,Incomplete
+850,36-40,Male,Business,74,16,31-60 days,Yes,No,Maybe,No,Yes,Medium,No,Maybe,No,Yes,No,Meditation,1522,In-person,Not Taken
+851,31-35,Female,Student,8,55,1-14 days,No,Yes,Yes,Yes,Maybe,Medium,Yes,Yes,No,No,Yes,Exercise,1183,Phone,Incomplete
+852,40-Above,Male,Student,57,5,1-14 days,No,Maybe,Maybe,No,Yes,High,Yes,No,Yes,No,Yes,Exercise,4638,In-person,Not Taken
+853,16-20,Male,Others,40,9,1-14 days,Maybe,Maybe,Yes,Yes,Yes,Medium,Yes,Yes,No,Yes,No,Meditation,1840,In-person,Complete
+854,31-35,Female,Business,42,22,15-30 days,Yes,No,Yes,Maybe,Maybe,High,Maybe,No,Maybe,No,Yes,Meditation,1926,In-person,Not Taken
+855,40-Above,Male,Corporate,5,16,15-30 days,No,No,Yes,No,No,Medium,Maybe,Yes,No,No,Yes,Medication,2065,Online,Complete
+856,16-20,Male,Housewife,16,14,15-30 days,No,Maybe,Maybe,No,Maybe,Medium,No,Yes,Maybe,Yes,Yes,Therapy,3597,Online,Complete
+857,31-35,Female,Business,83,83,More than 2 months,No,Yes,No,No,Maybe,High,Maybe,Maybe,No,Yes,Yes,Meditation,4677,Phone,Not Taken
+858,36-40,Female,Business,72,77,31-60 days,No,Maybe,Maybe,Maybe,Maybe,Medium,Yes,No,Maybe,No,Yes,Medication,2351,In-person,Not Taken
+859,36-40,Female,Others,10,60,More than 2 months,Maybe,Yes,No,Yes,Yes,Medium,Maybe,Yes,Maybe,No,No,Meditation,4568,Phone,Incomplete
+860,26-30,Female,Housewife,63,4,1-14 days,Maybe,Maybe,No,Maybe,Yes,Low,No,Maybe,Maybe,Yes,No,Therapy,4429,In-person,Incomplete
+861,21-25,Female,Corporate,72,87,1-14 days,Maybe,No,No,Maybe,Yes,Low,Yes,Maybe,No,No,No,Therapy,2369,Phone,Incomplete
+862,36-40,Female,Housewife,66,14,15-30 days,Maybe,Maybe,No,Maybe,Maybe,Low,Maybe,Maybe,Maybe,No,No,Meditation,2571,Phone,Incomplete
+863,16-20,Male,Business,95,42,31-60 days,No,No,Maybe,Maybe,No,Low,Maybe,Maybe,Maybe,No,No,Medication,4742,Online,Not Taken
+864,36-40,Female,Student,39,47,More than 2 months,Maybe,No,Yes,Yes,No,Medium,Yes,Maybe,No,Yes,No,Exercise,1620,Online,Not Taken
+865,36-40,Male,Business,50,4,1-14 days,Yes,Yes,No,Yes,Maybe,High,Yes,Yes,Yes,No,Yes,Medication,4930,Phone,Not Taken
+866,36-40,Female,Business,69,29,15-30 days,Maybe,Maybe,Maybe,No,Yes,Medium,Maybe,Maybe,Yes,Yes,Yes,Exercise,4953,Online,Not Taken
+867,36-40,Female,Student,38,66,More than 2 months,No,Maybe,No,No,Maybe,Medium,No,Yes,Maybe,No,Yes,Therapy,2639,Phone,Not Taken
+868,31-35,Male,Corporate,8,18,15-30 days,Yes,Maybe,Yes,Maybe,No,Medium,No,Maybe,No,No,No,Exercise,2731,Online,Incomplete
+869,40-Above,Female,Business,51,31,More than 2 months,Maybe,No,Yes,Maybe,Yes,Low,Yes,Yes,Maybe,No,Yes,Medication,2494,Online,Complete
+870,40-Above,Male,Corporate,46,43,More than 2 months,Maybe,Maybe,Yes,No,Yes,High,Yes,Maybe,No,Yes,No,Therapy,3559,Phone,Not Taken
+871,31-35,Female,Corporate,34,76,More than 2 months,Yes,No,Maybe,No,No,Low,No,No,Yes,No,Yes,Meditation,1704,Phone,Incomplete
+872,21-25,Male,Others,59,21,15-30 days,Maybe,Yes,Maybe,No,Yes,Low,No,Yes,Yes,No,Yes,Medication,3902,Online,Not Taken
+873,16-20,Male,Corporate,97,74,15-30 days,Yes,No,Yes,No,No,Low,Yes,No,No,Yes,No,Meditation,2769,Phone,Incomplete
+874,16-20,Male,Others,45,12,Go out Every day,Maybe,No,Maybe,Yes,Maybe,Medium,Yes,Maybe,No,Yes,No,Exercise,1138,In-person,Not Taken
+875,40-Above,Male,Student,65,78,Go out Every day,Yes,Yes,No,Maybe,Yes,High,No,Maybe,Yes,Yes,Yes,Exercise,2143,Online,Complete
+876,40-Above,Male,Housewife,4,78,Go out Every day,Maybe,No,Maybe,Maybe,Yes,Low,No,Yes,Maybe,Yes,No,Meditation,4381,Online,Incomplete
+877,36-40,Male,Housewife,43,92,1-14 days,Maybe,Maybe,No,Yes,Yes,High,Yes,Yes,Maybe,No,No,Medication,3140,Online,Complete
+878,16-20,Male,Student,53,64,1-14 days,Yes,Maybe,Maybe,No,Maybe,Low,Yes,No,Yes,No,Yes,Exercise,1282,Online,Incomplete
+879,36-40,Female,Student,70,1,1-14 days,No,Maybe,Yes,Maybe,Yes,Low,Maybe,Maybe,No,No,No,Medication,1203,In-person,Incomplete
+880,21-25,Female,Others,20,80,15-30 days,Maybe,Maybe,Maybe,Maybe,Yes,Medium,Yes,Yes,Yes,No,No,Exercise,4213,In-person,Complete
+881,26-30,Female,Business,82,30,1-14 days,No,Yes,No,No,Maybe,High,Maybe,Yes,Yes,No,Yes,Therapy,2228,Phone,Incomplete
+882,21-25,Female,Housewife,45,49,15-30 days,Maybe,No,Yes,Yes,Yes,Medium,No,Yes,Maybe,Yes,Yes,Medication,3673,In-person,Incomplete
+883,16-20,Female,Corporate,3,46,1-14 days,Maybe,Maybe,Maybe,No,No,High,Yes,No,Yes,No,Yes,Therapy,2494,In-person,Complete
+884,16-20,Female,Others,16,48,1-14 days,Maybe,Maybe,Maybe,Maybe,Yes,Low,Maybe,No,Yes,No,Yes,Meditation,4010,Online,Not Taken
+885,31-35,Male,Housewife,70,9,31-60 days,No,Maybe,Yes,Yes,Maybe,Medium,Maybe,Maybe,Yes,No,Yes,Medication,1992,In-person,Not Taken
+886,31-35,Male,Housewife,67,4,15-30 days,No,No,Yes,Maybe,Maybe,High,Maybe,Maybe,No,No,No,Exercise,2988,Phone,Not Taken
+887,31-35,Female,Corporate,48,45,More than 2 months,Yes,Maybe,No,Yes,Yes,Low,Maybe,No,Maybe,Yes,Yes,Therapy,2953,Phone,Incomplete
+888,16-20,Female,Corporate,30,70,Go out Every day,Yes,No,Yes,Yes,Yes,Medium,Maybe,Maybe,Yes,Yes,No,Therapy,3843,Phone,Complete
+889,31-35,Male,Others,20,21,1-14 days,No,Maybe,No,No,Maybe,High,No,Yes,Maybe,Yes,No,Meditation,1862,Phone,Complete
+890,16-20,Male,Student,70,75,Go out Every day,No,No,Yes,Yes,No,Low,Maybe,No,Maybe,No,Yes,Therapy,1587,In-person,Not Taken
+891,21-25,Female,Corporate,91,63,More than 2 months,No,No,Yes,Yes,Maybe,Low,No,Maybe,Maybe,Yes,Yes,Medication,4464,Phone,Not Taken
+892,40-Above,Female,Housewife,50,53,Go out Every day,Yes,Yes,Maybe,No,No,High,Maybe,Yes,Yes,No,Yes,Meditation,2306,In-person,Incomplete
+893,40-Above,Male,Corporate,99,3,31-60 days,No,Maybe,No,Yes,Maybe,Low,Maybe,Yes,Maybe,Yes,Yes,Meditation,2021,Phone,Complete
+894,26-30,Female,Business,16,39,15-30 days,Yes,Yes,No,Maybe,Maybe,High,No,Yes,Maybe,No,No,Exercise,1027,In-person,Incomplete
+895,40-Above,Male,Student,80,66,31-60 days,No,Yes,Yes,Maybe,Maybe,Medium,Yes,Maybe,Yes,No,Yes,Medication,2043,In-person,Not Taken
+896,16-20,Male,Business,27,99,1-14 days,No,No,Maybe,Yes,Maybe,High,Maybe,Yes,Maybe,No,No,Medication,1486,Phone,Not Taken
+897,16-20,Female,Business,19,22,31-60 days,No,Yes,No,Maybe,Maybe,Medium,No,Yes,No,No,No,Medication,1648,Phone,Not Taken
+898,40-Above,Female,Corporate,18,83,1-14 days,Yes,Yes,Yes,Maybe,No,High,No,Maybe,Yes,No,No,Exercise,2339,In-person,Not Taken
+899,26-30,Male,Corporate,13,79,31-60 days,No,Maybe,Yes,Yes,No,High,No,No,No,Yes,No,Exercise,2084,Phone,Incomplete
+900,31-35,Female,Corporate,84,49,More than 2 months,Yes,Maybe,No,No,No,Low,No,Yes,Maybe,Yes,No,Therapy,1068,Phone,Incomplete
+901,36-40,Female,Housewife,88,77,31-60 days,Yes,Yes,Yes,No,Yes,Medium,No,No,No,Yes,No,Therapy,3205,Phone,Incomplete
+902,26-30,Female,Corporate,26,86,More than 2 months,Maybe,Yes,Maybe,Maybe,No,High,Maybe,No,Yes,Yes,No,Therapy,4799,Phone,Incomplete
+903,26-30,Male,Others,80,94,15-30 days,Yes,No,Maybe,Maybe,Maybe,Low,No,Maybe,No,Yes,Yes,Medication,4876,Online,Incomplete
+904,31-35,Female,Others,37,34,31-60 days,No,Maybe,No,Yes,Yes,Low,Yes,Maybe,No,Yes,No,Meditation,4563,Online,Incomplete
+905,26-30,Female,Business,48,50,31-60 days,No,No,No,Maybe,Yes,High,Yes,Yes,Yes,No,Yes,Therapy,1518,Phone,Not Taken
+906,31-35,Female,Others,3,17,More than 2 months,Yes,No,Maybe,Maybe,Maybe,Medium,No,Maybe,No,Yes,Yes,Medication,3767,Phone,Incomplete
+907,16-20,Female,Housewife,75,94,31-60 days,No,Yes,Yes,Yes,Maybe,High,Yes,Maybe,Yes,Yes,No,Therapy,4429,In-person,Incomplete
+908,21-25,Female,Student,74,72,15-30 days,No,Maybe,No,Maybe,Yes,High,No,No,No,Yes,Yes,Medication,4222,Online,Incomplete
+909,36-40,Female,Corporate,81,57,15-30 days,No,Yes,Yes,No,No,Low,No,Yes,Maybe,Yes,No,Therapy,1091,Online,Complete
+910,26-30,Female,Housewife,37,84,31-60 days,No,No,Yes,No,No,Low,Yes,Maybe,Maybe,Yes,Yes,Therapy,3886,In-person,Complete
+911,31-35,Female,Business,70,12,15-30 days,No,No,No,No,Maybe,High,Yes,No,Yes,No,Yes,Therapy,2526,Online,Incomplete
+912,16-20,Female,Others,52,12,Go out Every day,No,Yes,No,Maybe,No,High,Maybe,Yes,Yes,No,Yes,Meditation,2847,In-person,Not Taken
+913,26-30,Male,Housewife,30,84,More than 2 months,Yes,No,Yes,Yes,Maybe,Medium,Maybe,No,Yes,Yes,Yes,Meditation,1504,Phone,Complete
+914,26-30,Female,Business,86,5,15-30 days,Maybe,No,Maybe,Yes,No,High,No,Yes,Yes,No,No,Therapy,3914,In-person,Complete
+915,36-40,Male,Corporate,89,97,1-14 days,Maybe,No,Yes,Maybe,No,High,Maybe,Maybe,Yes,No,Yes,Meditation,2233,Online,Not Taken
+916,21-25,Female,Student,75,30,Go out Every day,No,Maybe,Yes,Maybe,Yes,Low,Maybe,No,Yes,No,No,Exercise,4015,Online,Not Taken
+917,26-30,Female,Others,39,97,Go out Every day,No,No,No,Yes,Maybe,Low,Maybe,Maybe,Yes,No,No,Meditation,4746,In-person,Not Taken
+918,31-35,Female,Others,86,57,1-14 days,Maybe,Maybe,Yes,Maybe,Yes,High,Maybe,No,Yes,No,No,Meditation,3859,Phone,Complete
+919,26-30,Female,Others,68,98,More than 2 months,Yes,No,Maybe,No,Maybe,High,Yes,Maybe,Maybe,Yes,Yes,Meditation,3612,Phone,Complete
+920,40-Above,Male,Student,64,51,Go out Every day,Yes,Maybe,Maybe,Yes,Maybe,High,No,Yes,Yes,Yes,Yes,Meditation,3279,In-person,Complete
+921,40-Above,Male,Business,62,25,Go out Every day,Maybe,Yes,No,Yes,No,Medium,No,Yes,Yes,Yes,No,Exercise,4480,In-person,Incomplete
+922,16-20,Male,Business,42,67,31-60 days,Maybe,No,Maybe,Yes,Yes,High,Yes,Yes,Yes,Yes,No,Exercise,2381,Phone,Not Taken
+923,40-Above,Female,Student,65,86,1-14 days,Maybe,No,No,Yes,Yes,Medium,Yes,Maybe,Maybe,Yes,No,Meditation,3486,In-person,Complete
+924,36-40,Female,Housewife,51,57,More than 2 months,Yes,Maybe,No,Yes,No,Medium,Yes,Maybe,No,Yes,No,Therapy,1373,In-person,Not Taken
+925,40-Above,Female,Housewife,99,35,More than 2 months,Yes,No,Maybe,Yes,Yes,Medium,Yes,Yes,No,Yes,Yes,Meditation,3793,Phone,Not Taken
+926,26-30,Female,Others,84,13,More than 2 months,Maybe,No,Maybe,No,Yes,High,Maybe,Yes,Maybe,No,Yes,Therapy,1687,In-person,Not Taken
+927,26-30,Female,Corporate,13,37,Go out Every day,Maybe,No,Maybe,Maybe,No,Low,Maybe,No,No,Yes,No,Exercise,2584,Phone,Incomplete
+928,26-30,Female,Others,90,24,15-30 days,Yes,Maybe,No,Yes,No,High,No,Yes,No,Yes,Yes,Medication,1712,Phone,Incomplete
+929,40-Above,Female,Student,59,6,31-60 days,Yes,No,Maybe,No,No,High,Yes,Yes,Yes,No,Yes,Therapy,4852,Online,Incomplete
+930,40-Above,Female,Others,88,99,Go out Every day,No,Maybe,Yes,No,Maybe,Low,No,Yes,Maybe,No,Yes,Medication,2041,Online,Not Taken
+931,31-35,Female,Student,25,68,More than 2 months,Maybe,Maybe,No,No,No,Low,Yes,Yes,No,No,Yes,Exercise,1393,Online,Complete
+932,31-35,Female,Others,40,71,Go out Every day,Maybe,No,Yes,Yes,Yes,High,Maybe,Yes,Maybe,No,Yes,Therapy,3985,Online,Complete
+933,40-Above,Female,Others,58,72,31-60 days,Maybe,Yes,Yes,No,Yes,Low,No,Maybe,Maybe,Yes,No,Meditation,3326,Online,Incomplete
+934,36-40,Female,Housewife,57,31,Go out Every day,Maybe,Yes,No,No,No,High,No,Yes,Maybe,No,No,Meditation,3866,Phone,Complete
+935,36-40,Male,Housewife,31,58,31-60 days,No,No,No,Yes,Yes,Low,No,No,Yes,No,Yes,Exercise,2745,In-person,Incomplete
+936,36-40,Female,Housewife,53,10,15-30 days,Maybe,Maybe,Maybe,Yes,No,Medium,Yes,Maybe,No,Yes,No,Therapy,4575,In-person,Not Taken
+937,21-25,Female,Others,87,16,More than 2 months,Maybe,No,Maybe,No,No,Medium,Maybe,Yes,No,No,No,Therapy,2395,Phone,Incomplete
+938,31-35,Female,Student,29,98,More than 2 months,Maybe,Yes,No,Maybe,No,Medium,Yes,Maybe,Yes,Yes,Yes,Medication,2502,Online,Not Taken
+939,36-40,Male,Student,16,53,1-14 days,No,Yes,Yes,Yes,Maybe,Medium,Yes,No,Yes,No,Yes,Meditation,3163,In-person,Incomplete
+940,36-40,Female,Others,69,13,More than 2 months,Maybe,Yes,Maybe,No,No,High,Yes,Yes,Yes,Yes,No,Exercise,1321,In-person,Incomplete
+941,40-Above,Female,Student,10,39,Go out Every day,No,No,Maybe,No,Maybe,Medium,Maybe,No,Maybe,No,Yes,Exercise,3774,In-person,Complete
+942,16-20,Male,Corporate,68,89,Go out Every day,Maybe,No,No,Yes,No,Medium,Maybe,Maybe,Yes,Yes,Yes,Therapy,3226,In-person,Complete
+943,36-40,Female,Others,68,46,15-30 days,Maybe,Yes,Maybe,Yes,Maybe,Low,No,Maybe,No,No,Yes,Therapy,2422,Online,Not Taken
+944,40-Above,Male,Student,98,94,More than 2 months,Yes,Maybe,Yes,No,Yes,Low,Maybe,No,No,No,No,Therapy,2825,In-person,Complete
+945,21-25,Male,Student,94,70,More than 2 months,No,No,Yes,Yes,Maybe,High,Maybe,Yes,Maybe,No,No,Exercise,2126,In-person,Complete
+946,36-40,Male,Student,8,35,More than 2 months,Maybe,Maybe,Maybe,No,No,High,Yes,No,No,Yes,No,Therapy,4457,Online,Complete
+947,40-Above,Male,Housewife,44,21,15-30 days,Maybe,No,Maybe,Yes,No,High,Yes,Maybe,Maybe,No,No,Exercise,2671,In-person,Not Taken
+948,26-30,Male,Others,41,76,31-60 days,Maybe,Maybe,No,No,No,Low,Yes,Yes,Maybe,No,Yes,Exercise,1729,Online,Incomplete
+949,16-20,Female,Business,48,39,15-30 days,Yes,Yes,No,No,No,Low,No,No,Maybe,Yes,No,Exercise,1542,In-person,Not Taken
+950,31-35,Male,Business,37,45,Go out Every day,No,Yes,Maybe,Maybe,Maybe,Low,Maybe,Yes,Maybe,No,Yes,Meditation,2054,Phone,Incomplete
+951,40-Above,Male,Student,84,89,More than 2 months,No,Maybe,No,Yes,No,High,Yes,Maybe,No,Yes,No,Exercise,1314,Phone,Incomplete
+952,26-30,Male,Others,15,77,31-60 days,Maybe,Yes,Maybe,Yes,Yes,Medium,No,No,Yes,No,Yes,Medication,4580,In-person,Not Taken
+953,26-30,Female,Business,86,78,31-60 days,Yes,No,Yes,No,Maybe,Low,Yes,Yes,Yes,No,No,Meditation,1098,In-person,Complete
+954,21-25,Female,Housewife,78,79,15-30 days,Yes,Yes,No,Maybe,No,Medium,No,No,Maybe,No,No,Exercise,4097,Phone,Complete
+955,36-40,Female,Student,20,45,15-30 days,Maybe,Yes,No,Maybe,Yes,High,Maybe,Maybe,No,Yes,No,Therapy,1009,In-person,Incomplete
+956,31-35,Female,Corporate,16,79,Go out Every day,Yes,Maybe,Yes,No,Yes,Medium,Maybe,Yes,Yes,Yes,Yes,Meditation,4163,Phone,Not Taken
+957,16-20,Female,Corporate,31,2,31-60 days,Yes,Maybe,Maybe,Yes,Maybe,Low,No,Maybe,Maybe,Yes,No,Meditation,3299,In-person,Incomplete
+958,40-Above,Male,Student,78,83,15-30 days,No,Yes,Yes,Yes,No,Low,Maybe,Maybe,No,No,No,Meditation,1729,Online,Incomplete
+959,16-20,Male,Others,91,21,More than 2 months,Yes,Maybe,Yes,No,No,Medium,Maybe,No,No,No,No,Meditation,4754,Phone,Complete
+960,36-40,Female,Business,24,54,Go out Every day,Maybe,Maybe,No,No,No,High,Maybe,Yes,Yes,No,No,Therapy,4899,Online,Complete
+961,40-Above,Female,Others,61,53,15-30 days,Maybe,Maybe,Yes,No,Maybe,High,Yes,No,Yes,Yes,No,Meditation,1967,Phone,Not Taken
+962,31-35,Female,Housewife,27,43,1-14 days,Yes,Yes,No,No,No,Medium,Maybe,Maybe,Yes,No,Yes,Meditation,3541,Phone,Not Taken
+963,40-Above,Male,Student,25,13,Go out Every day,Maybe,No,No,Yes,Yes,High,Maybe,No,Maybe,No,No,Therapy,4036,Online,Incomplete
+964,31-35,Male,Housewife,94,84,31-60 days,Maybe,No,Yes,Yes,No,Medium,No,No,No,Yes,Yes,Therapy,4365,Phone,Incomplete
+965,16-20,Male,Others,21,28,More than 2 months,Maybe,Maybe,Maybe,No,Yes,Medium,No,No,No,Yes,No,Medication,4169,In-person,Incomplete
+966,36-40,Female,Others,76,76,31-60 days,No,No,No,Yes,Maybe,High,No,Maybe,No,Yes,No,Exercise,1284,Online,Complete
+967,40-Above,Female,Business,94,5,Go out Every day,Yes,Yes,Yes,No,No,Low,Maybe,Maybe,Maybe,Yes,Yes,Therapy,1557,In-person,Complete
+968,36-40,Male,Housewife,29,39,Go out Every day,Yes,Yes,No,Yes,Yes,Low,No,Maybe,Yes,Yes,No,Medication,2659,Online,Not Taken
+969,16-20,Female,Housewife,54,57,1-14 days,Maybe,No,Maybe,No,Maybe,Medium,No,Maybe,Maybe,Yes,Yes,Meditation,4829,Phone,Complete
+970,36-40,Male,Housewife,67,45,More than 2 months,No,No,Maybe,Maybe,Maybe,Low,Maybe,No,Maybe,Yes,No,Medication,4584,Phone,Incomplete
+971,40-Above,Female,Housewife,87,1,15-30 days,Yes,Yes,Maybe,Maybe,Maybe,High,Maybe,Maybe,Maybe,Yes,Yes,Medication,1216,In-person,Complete
+972,16-20,Female,Housewife,30,76,31-60 days,No,Yes,Yes,Yes,Maybe,Medium,Maybe,Maybe,Maybe,No,Yes,Meditation,3168,Online,Incomplete
+973,16-20,Female,Others,55,92,31-60 days,No,Yes,Maybe,Yes,Yes,Medium,Maybe,Yes,No,Yes,No,Meditation,2619,Online,Incomplete
+974,16-20,Female,Business,7,50,15-30 days,No,No,Maybe,Yes,Maybe,High,Maybe,Yes,Yes,Yes,Yes,Exercise,2131,Online,Not Taken
+975,36-40,Female,Housewife,61,63,15-30 days,Maybe,Yes,Yes,Yes,Yes,Medium,Maybe,No,Maybe,Yes,No,Medication,1599,Phone,Incomplete
+976,36-40,Male,Corporate,14,87,More than 2 months,Maybe,No,Yes,Yes,No,Low,Maybe,Maybe,Maybe,Yes,No,Exercise,4012,In-person,Incomplete
+977,21-25,Female,Business,55,13,Go out Every day,Yes,Maybe,No,Maybe,Yes,Medium,No,No,Maybe,Yes,No,Therapy,1392,Phone,Not Taken
+978,21-25,Female,Student,75,72,Go out Every day,Maybe,Maybe,Maybe,No,No,Low,No,Maybe,Yes,Yes,No,Medication,2873,Online,Incomplete
+979,31-35,Male,Student,54,19,Go out Every day,Maybe,No,Maybe,Yes,Yes,Low,Yes,Yes,Yes,Yes,No,Therapy,3370,Phone,Complete
+980,26-30,Male,Student,7,87,31-60 days,Maybe,No,Maybe,No,Yes,Low,No,Yes,No,No,No,Exercise,3134,Phone,Incomplete
+981,36-40,Female,Others,47,31,15-30 days,No,Maybe,Maybe,No,Maybe,Low,No,No,Maybe,No,No,Exercise,3371,Online,Complete
+982,21-25,Male,Student,73,89,More than 2 months,Yes,Maybe,No,Yes,Maybe,Low,No,No,Maybe,Yes,No,Meditation,1646,In-person,Not Taken
+983,16-20,Male,Business,27,49,Go out Every day,No,Yes,No,No,Maybe,Medium,No,No,Maybe,Yes,Yes,Therapy,3286,In-person,Incomplete
+984,31-35,Female,Corporate,85,26,15-30 days,Maybe,Yes,No,Maybe,No,Medium,Maybe,No,No,Yes,No,Therapy,3927,In-person,Not Taken
+985,26-30,Female,Student,43,87,More than 2 months,No,Maybe,Maybe,No,No,High,No,Yes,Maybe,No,No,Exercise,3528,Phone,Complete
+986,36-40,Female,Others,43,39,1-14 days,No,Maybe,Maybe,Yes,No,High,Maybe,No,Maybe,No,Yes,Therapy,1007,Phone,Not Taken
+987,31-35,Male,Corporate,46,28,Go out Every day,Yes,No,Yes,Maybe,No,Medium,Yes,Yes,Maybe,No,No,Meditation,4251,Online,Complete
+988,21-25,Male,Student,93,51,15-30 days,No,No,Maybe,Maybe,Yes,Low,No,Maybe,Maybe,No,Yes,Therapy,1242,Phone,Complete
+989,36-40,Female,Housewife,66,91,More than 2 months,Yes,No,Maybe,Maybe,Yes,Medium,Maybe,No,Maybe,Yes,No,Meditation,3969,Phone,Complete
+990,21-25,Female,Corporate,58,72,15-30 days,Yes,Yes,Maybe,Maybe,Maybe,Medium,No,No,Maybe,No,Yes,Meditation,2733,In-person,Complete
+991,31-35,Female,Others,31,78,15-30 days,No,Maybe,No,No,Yes,High,Yes,No,No,No,Yes,Medication,1608,Phone,Not Taken
+992,31-35,Female,Student,9,95,31-60 days,Yes,Yes,Maybe,Yes,Yes,High,Maybe,No,No,No,No,Medication,2276,Phone,Incomplete
+993,31-35,Male,Business,74,27,15-30 days,Yes,No,No,No,No,High,Yes,No,Maybe,Yes,No,Exercise,2134,In-person,Not Taken
+994,31-35,Male,Others,5,28,31-60 days,Yes,Maybe,No,Yes,Maybe,Medium,Maybe,Maybe,Yes,No,No,Exercise,4906,In-person,Incomplete
+995,40-Above,Female,Others,51,43,More than 2 months,Yes,Maybe,Yes,Yes,No,Low,Maybe,Maybe,Yes,Yes,Yes,Meditation,1427,Phone,Not Taken
+996,21-25,Female,Corporate,9,22,1-14 days,Yes,Maybe,Yes,Yes,No,High,Maybe,No,Yes,Yes,No,Therapy,4238,Online,Not Taken
+997,21-25,Female,Student,46,10,More than 2 months,No,Maybe,Yes,Maybe,No,Low,No,Maybe,Yes,Yes,No,Medication,4789,Online,Incomplete
+998,40-Above,Male,Others,79,26,15-30 days,Yes,Maybe,Yes,Yes,No,Medium,Yes,Yes,Maybe,Yes,Yes,Medication,2592,In-person,Incomplete
+999,36-40,Female,Others,55,42,1-14 days,Yes,Yes,Yes,No,Maybe,High,Maybe,Maybe,Maybe,No,Yes,Therapy,3683,Online,Not Taken
+1000,16-20,Male,Student,43,48,1-14 days,Maybe,Yes,No,No,Maybe,Low,No,No,No,Yes,No,Meditation,1834,Online,Incomplete
